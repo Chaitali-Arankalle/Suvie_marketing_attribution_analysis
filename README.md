@@ -4,7 +4,7 @@ This project implements a **First vs Last Click Attribution Model** using raw ad
 The objective is to show how attribution models change campaign/channel credit allocation and inform smarter marketing budget decisions.
 
 
-## 📂 Project Structure
+## Project Structure
 
 - **data/**
   - **raw/** → Original CSVs provided  
@@ -34,7 +34,7 @@ The objective is to show how attribution models change campaign/channel credit a
 - **README.md** → Project navigation & summary
 
 
-## 🚀 Workflow
+## Workflow
 
 1. **Raw data** → `data/raw`  
    Provided event-level and spend-level CSVs.
@@ -66,7 +66,7 @@ The objective is to show how attribution models change campaign/channel credit a
    - Channel Mix & Model Disagreement
 
 
-## 📝 Deliverables
+## Deliverables
 - **Clean SQL pipelines** for data prep and attribution logic.  
 - **Processed datasets** in CSV form.  
 - **Looker Studio Dashboard** with insights (MTD revenue, trends, top campaigns, channel mix, model disagreement, AOV).  
