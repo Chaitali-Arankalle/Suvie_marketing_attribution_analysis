@@ -1,0 +1,715 @@
+date,campaign_id,campaign_name,channel,model,attributed_revenue,attributed_orders
+2025-09-13,DSP-100,Awareness Blast,DISPLAY,first_click,7286.4800000000005,14.0
+2025-07-22,AFF-200,Top Affiliates,AFFILIATE,first_click,22.67,1.0
+2025-07-20,AFF-200,Top Affiliates,AFFILIATE,last_click,61.9,1.0
+2025-08-15,AFF-200,Top Affiliates,AFFILIATE,first_click,31.24,1.0
+2025-08-13,AFF-200,Top Affiliates,AFFILIATE,first_click,149.74,1.0
+2025-07-22,DSP-100,Awareness Blast,DISPLAY,last_click,37.73,1.0
+2025-08-23,DSP-100,Awareness Blast,DISPLAY,first_click,304.08,1.0
+2025-07-23,DSP-100,Awareness Blast,DISPLAY,first_click,169.47,1.0
+2025-07-30,SEA-001,Brand Search,PAID SEARCH,last_click,98.49,1.0
+2025-09-06,SEA-001,Brand Search,PAID SEARCH,last_click,210.89,1.0
+2025-07-30,SEA-001,Brand Search,PAID SEARCH,first_click,98.49,1.0
+2025-07-22,SEA-001,Brand Search,PAID SEARCH,first_click,92.14,1.0
+2025-08-04,SEA-001,Brand Search,PAID SEARCH,first_click,52.57,1.0
+2025-08-18,SEA-001,Brand Search,PAID SEARCH,first_click,198.77,1.0
+2025-09-05,SEA-002,Competitor Conquest,PAID SEARCH,last_click,109.2,1.0
+2025-07-21,SEA-002,Competitor Conquest,PAID SEARCH,last_click,273.25,1.0
+2025-09-07,SEA-002,Competitor Conquest,PAID SEARCH,last_click,111.89,1.0
+2025-08-16,SEA-002,Competitor Conquest,PAID SEARCH,last_click,14.93,1.0
+2025-09-05,SEA-002,Competitor Conquest,PAID SEARCH,first_click,109.2,1.0
+2025-07-20,SOC-010,Summer Splash,PAID SOCIAL,first_click,177.77,1.0
+2025-07-23,SOC-010,Summer Splash,PAID SOCIAL,first_click,21.17,1.0
+2025-07-21,SOC-010,Summer Splash,PAID SOCIAL,last_click,68.68,1.0
+2025-08-10,SOC-011,Back-to-School,PAID SOCIAL,first_click,127.79,1.0
+2025-07-21,SOC-011,Back-to-School,PAID SOCIAL,first_click,114.93,1.0
+2025-07-21,SOC-011,Back-to-School,PAID SOCIAL,last_click,114.93,1.0
+2025-08-16,SOC-011,Back-to-School,PAID SOCIAL,last_click,84.04,1.0
+2025-07-24,AFF-200,Top Affiliates,AFFILIATE,first_click,446.82,2.0
+2025-08-15,AFF-200,Top Affiliates,AFFILIATE,last_click,83.99,2.0
+2025-08-10,AFF-200,Top Affiliates,AFFILIATE,last_click,400.74,2.0
+2025-07-28,AFF-200,Top Affiliates,AFFILIATE,last_click,190.19,2.0
+2025-08-16,AFF-200,Top Affiliates,AFFILIATE,first_click,223.47,2.0
+2025-07-22,AFF-200,Top Affiliates,AFFILIATE,last_click,73.15,2.0
+2025-09-18,AFF-200,Top Affiliates,AFFILIATE,first_click,293.19,2.0
+2025-07-20,AFF-200,Top Affiliates,AFFILIATE,first_click,207.38,2.0
+2025-08-17,AFF-200,Top Affiliates,AFFILIATE,last_click,255.97000000000003,2.0
+2025-08-05,AFF-200,Top Affiliates,AFFILIATE,first_click,253.0,2.0
+2025-07-21,DSP-100,Awareness Blast,DISPLAY,first_click,201.89,2.0
+2025-09-02,DSP-100,Awareness Blast,DISPLAY,last_click,394.33,2.0
+2025-09-01,DSP-100,Awareness Blast,DISPLAY,first_click,192.54,2.0
+2025-09-18,DSP-100,Awareness Blast,DISPLAY,first_click,211.18,2.0
+2025-09-05,DSP-100,Awareness Blast,DISPLAY,last_click,336.58000000000004,2.0
+2025-07-21,DSP-100,Awareness Blast,DISPLAY,last_click,201.89,2.0
+2025-07-22,DSP-100,Awareness Blast,DISPLAY,first_click,88.21,2.0
+2025-08-09,DSP-100,Awareness Blast,DISPLAY,last_click,142.3,2.0
+2025-07-29,DSP-100,Awareness Blast,DISPLAY,first_click,214.91000000000003,2.0
+2025-09-07,DSP-100,Awareness Blast,DISPLAY,last_click,197.51999999999998,2.0
+2025-08-16,DSP-100,Awareness Blast,DISPLAY,first_click,230.15,2.0
+2025-09-06,SEA-001,Brand Search,PAID SEARCH,first_click,1009.89,2.0
+2025-09-18,SEA-001,Brand Search,PAID SEARCH,first_click,491.51,2.0
+2025-09-16,SEA-001,Brand Search,PAID SEARCH,first_click,188.14,2.0
+2025-09-08,SEA-001,Brand Search,PAID SEARCH,last_click,377.83,2.0
+2025-09-17,SEA-001,Brand Search,PAID SEARCH,last_click,199.27,2.0
+2025-09-17,SEA-001,Brand Search,PAID SEARCH,first_click,272.45000000000005,2.0
+2025-08-14,SEA-001,Brand Search,PAID SEARCH,last_click,131.78,2.0
+2025-08-03,SEA-001,Brand Search,PAID SEARCH,first_click,280.45,2.0
+2025-07-23,SEA-001,Brand Search,PAID SEARCH,first_click,216.36,2.0
+2025-08-04,SEA-001,Brand Search,PAID SEARCH,last_click,454.37,2.0
+2025-08-15,SEA-001,Brand Search,PAID SEARCH,last_click,478.38,2.0
+2025-07-22,SEA-002,Competitor Conquest,PAID SEARCH,last_click,151.72,2.0
+2025-08-19,SEA-002,Competitor Conquest,PAID SEARCH,first_click,328.05,2.0
+2025-08-19,SEA-002,Competitor Conquest,PAID SEARCH,last_click,347.2,2.0
+2025-08-27,SEA-002,Competitor Conquest,PAID SEARCH,first_click,214.16000000000003,2.0
+2025-09-07,SEA-002,Competitor Conquest,PAID SEARCH,first_click,194.12,2.0
+2025-09-11,SEA-002,Competitor Conquest,PAID SEARCH,first_click,326.78999999999996,2.0
+2025-08-04,SEA-002,Competitor Conquest,PAID SEARCH,last_click,445.06,2.0
+2025-07-28,SEA-002,Competitor Conquest,PAID SEARCH,first_click,322.56,2.0
+2025-09-18,SEA-002,Competitor Conquest,PAID SEARCH,last_click,215.18,2.0
+2025-08-27,SEA-002,Competitor Conquest,PAID SEARCH,last_click,67.33,2.0
+2025-09-11,SEA-002,Competitor Conquest,PAID SEARCH,last_click,231.92000000000002,2.0
+2025-09-18,SEA-002,Competitor Conquest,PAID SEARCH,first_click,313.29999999999995,2.0
+2025-08-10,SOC-010,Summer Splash,PAID SOCIAL,last_click,234.73000000000002,2.0
+2025-07-20,SOC-010,Summer Splash,PAID SOCIAL,last_click,323.25,2.0
+2025-07-26,SOC-010,Summer Splash,PAID SOCIAL,last_click,250.45999999999998,2.0
+2025-08-15,SOC-010,Summer Splash,PAID SOCIAL,last_click,207.12,2.0
+2025-07-21,SOC-010,Summer Splash,PAID SOCIAL,first_click,341.93,2.0
+2025-08-23,SOC-010,Summer Splash,PAID SOCIAL,last_click,312.58000000000004,2.0
+2025-07-24,SOC-010,Summer Splash,PAID SOCIAL,last_click,238.62,2.0
+2025-08-26,SOC-010,Summer Splash,PAID SOCIAL,first_click,172.48000000000002,2.0
+2025-07-22,SOC-010,Summer Splash,PAID SOCIAL,last_click,222.24,2.0
+2025-07-22,SOC-010,Summer Splash,PAID SOCIAL,first_click,222.24,2.0
+2025-08-26,SOC-010,Summer Splash,PAID SOCIAL,last_click,184.81,2.0
+2025-07-22,SOC-011,Back-to-School,PAID SOCIAL,first_click,108.1,2.0
+2025-09-04,SOC-011,Back-to-School,PAID SOCIAL,first_click,463.88,2.0
+2025-07-23,SOC-011,Back-to-School,PAID SOCIAL,last_click,159.66,2.0
+2025-08-18,SOC-011,Back-to-School,PAID SOCIAL,last_click,164.54999999999998,2.0
+2025-09-08,SOC-011,Back-to-School,PAID SOCIAL,first_click,457.48,2.0
+2025-07-23,SOC-011,Back-to-School,PAID SOCIAL,first_click,159.66,2.0
+2025-08-23,SOC-011,Back-to-School,PAID SOCIAL,last_click,343.48,2.0
+2025-07-21,AFF-200,Top Affiliates,AFFILIATE,last_click,449.21000000000004,3.0
+2025-08-23,AFF-200,Top Affiliates,AFFILIATE,last_click,259.26,3.0
+2025-09-11,AFF-200,Top Affiliates,AFFILIATE,last_click,255.45999999999998,3.0
+2025-07-28,AFF-200,Top Affiliates,AFFILIATE,first_click,404.90999999999997,3.0
+2025-09-05,AFF-200,Top Affiliates,AFFILIATE,first_click,338.64,3.0
+2025-07-24,AFF-200,Top Affiliates,AFFILIATE,last_click,579.87,3.0
+2025-09-16,AFF-200,Top Affiliates,AFFILIATE,last_click,401.98,3.0
+2025-07-23,AFF-200,Top Affiliates,AFFILIATE,first_click,222.28,3.0
+2025-08-18,AFF-200,Top Affiliates,AFFILIATE,last_click,226.63,3.0
+2025-07-23,AFF-200,Top Affiliates,AFFILIATE,last_click,222.28,3.0
+2025-08-26,AFF-200,Top Affiliates,AFFILIATE,last_click,332.64,3.0
+2025-07-21,AFF-200,Top Affiliates,AFFILIATE,first_click,449.21000000000004,3.0
+2025-08-31,AFF-200,Top Affiliates,AFFILIATE,last_click,546.84,3.0
+2025-08-16,AFF-200,Top Affiliates,AFFILIATE,last_click,279.54999999999995,3.0
+2025-09-06,AFF-200,Top Affiliates,AFFILIATE,last_click,532.54,3.0
+2025-09-01,AFF-200,Top Affiliates,AFFILIATE,last_click,398.66,3.0
+2025-08-13,AFF-200,Top Affiliates,AFFILIATE,last_click,511.99,3.0
+2025-08-10,DSP-100,Awareness Blast,DISPLAY,last_click,326.12,3.0
+2025-09-01,DSP-100,Awareness Blast,DISPLAY,last_click,383.21000000000004,3.0
+2025-09-02,DSP-100,Awareness Blast,DISPLAY,first_click,340.96,3.0
+2025-08-24,DSP-100,Awareness Blast,DISPLAY,first_click,310.89,3.0
+2025-09-05,DSP-100,Awareness Blast,DISPLAY,first_click,397.32000000000005,3.0
+2025-09-16,DSP-100,Awareness Blast,DISPLAY,last_click,471.76,3.0
+2025-09-18,DSP-100,Awareness Blast,DISPLAY,last_click,205.89000000000001,3.0
+2025-07-28,DSP-100,Awareness Blast,DISPLAY,last_click,512.82999999999993,3.0
+2025-09-08,DSP-100,Awareness Blast,DISPLAY,last_click,649.68000000000006,3.0
+2025-08-03,SEA-001,Brand Search,PAID SEARCH,last_click,507.81000000000006,3.0
+2025-09-04,SEA-001,Brand Search,PAID SEARCH,first_click,318.04999999999995,3.0
+2025-07-28,SEA-001,Brand Search,PAID SEARCH,first_click,320.13,3.0
+2025-08-26,SEA-001,Brand Search,PAID SEARCH,first_click,305.92,3.0
+2025-08-27,SEA-001,Brand Search,PAID SEARCH,first_click,544.49,3.0
+2025-07-24,SEA-001,Brand Search,PAID SEARCH,last_click,236.31,3.0
+2025-08-10,SEA-001,Brand Search,PAID SEARCH,first_click,176.38,3.0
+2025-07-26,SEA-001,Brand Search,PAID SEARCH,first_click,270.40999999999997,3.0
+2025-08-09,SEA-001,Brand Search,PAID SEARCH,last_click,508.70000000000005,3.0
+2025-09-03,SEA-001,Brand Search,PAID SEARCH,first_click,333.37,3.0
+2025-09-05,SEA-001,Brand Search,PAID SEARCH,first_click,304.90999999999997,3.0
+2025-08-12,SEA-001,Brand Search,PAID SEARCH,first_click,419.38,3.0
+2025-08-16,SEA-001,Brand Search,PAID SEARCH,first_click,176.98000000000002,3.0
+2025-08-30,SEA-001,Brand Search,PAID SEARCH,first_click,289.64,3.0
+2025-08-09,SEA-001,Brand Search,PAID SEARCH,first_click,307.85999999999996,3.0
+2025-08-19,SEA-001,Brand Search,PAID SEARCH,last_click,320.3,3.0
+2025-09-07,SEA-001,Brand Search,PAID SEARCH,first_click,583.18000000000006,3.0
+2025-08-05,SEA-001,Brand Search,PAID SEARCH,last_click,250.38,3.0
+2025-08-12,SEA-001,Brand Search,PAID SEARCH,last_click,285.12,3.0
+2025-07-25,SEA-001,Brand Search,PAID SEARCH,last_click,363.1,3.0
+2025-08-15,SEA-001,Brand Search,PAID SEARCH,first_click,576.02,3.0
+2025-07-28,SEA-001,Brand Search,PAID SEARCH,last_click,568.67,3.0
+2025-08-10,SEA-002,Competitor Conquest,PAID SEARCH,first_click,557.64,3.0
+2025-09-06,SEA-002,Competitor Conquest,PAID SEARCH,last_click,985.55000000000007,3.0
+2025-07-22,SEA-002,Competitor Conquest,PAID SEARCH,first_click,375.63,3.0
+2025-08-30,SEA-002,Competitor Conquest,PAID SEARCH,last_click,265.63,3.0
+2025-09-16,SEA-002,Competitor Conquest,PAID SEARCH,last_click,375.61,3.0
+2025-07-28,SEA-002,Competitor Conquest,PAID SEARCH,last_click,517.65000000000009,3.0
+2025-08-04,SEA-002,Competitor Conquest,PAID SEARCH,first_click,475.27,3.0
+2025-07-26,SEA-002,Competitor Conquest,PAID SEARCH,first_click,361.01,3.0
+2025-08-25,SEA-002,Competitor Conquest,PAID SEARCH,first_click,363.53,3.0
+2025-09-16,SEA-002,Competitor Conquest,PAID SEARCH,first_click,362.26,3.0
+2025-08-18,SEA-002,Competitor Conquest,PAID SEARCH,last_click,762.89999999999986,3.0
+2025-08-12,SEA-002,Competitor Conquest,PAID SEARCH,last_click,419.13,3.0
+2025-09-02,SEA-002,Competitor Conquest,PAID SEARCH,first_click,391.5,3.0
+2025-07-27,SEA-002,Competitor Conquest,PAID SEARCH,last_click,466.35,3.0
+2025-09-06,SEA-002,Competitor Conquest,PAID SEARCH,first_click,163.23000000000002,3.0
+2025-07-26,SOC-010,Summer Splash,PAID SOCIAL,first_click,255.54,3.0
+2025-09-16,SOC-010,Summer Splash,PAID SOCIAL,last_click,343.46000000000004,3.0
+2025-08-09,SOC-010,Summer Splash,PAID SOCIAL,last_click,344.18,3.0
+2025-08-23,SOC-010,Summer Splash,PAID SOCIAL,first_click,452.51,3.0
+2025-09-06,SOC-010,Summer Splash,PAID SOCIAL,first_click,574.66,3.0
+2025-08-12,SOC-010,Summer Splash,PAID SOCIAL,first_click,311.69,3.0
+2025-08-19,SOC-010,Summer Splash,PAID SOCIAL,first_click,290.28,3.0
+2025-08-19,SOC-010,Summer Splash,PAID SOCIAL,last_click,359.55,3.0
+2025-09-07,SOC-010,Summer Splash,PAID SOCIAL,first_click,637.83999999999992,3.0
+2025-08-24,SOC-010,Summer Splash,PAID SOCIAL,last_click,450.71000000000004,3.0
+2025-08-10,SOC-010,Summer Splash,PAID SOCIAL,first_click,236.6,3.0
+2025-07-25,SOC-010,Summer Splash,PAID SOCIAL,last_click,316.12,3.0
+2025-09-09,SOC-010,Summer Splash,PAID SOCIAL,last_click,418.4,3.0
+2025-09-04,SOC-010,Summer Splash,PAID SOCIAL,last_click,414.78000000000003,3.0
+2025-09-16,SOC-010,Summer Splash,PAID SOCIAL,first_click,272.33,3.0
+2025-09-01,SOC-010,Summer Splash,PAID SOCIAL,first_click,546.01,3.0
+2025-09-13,SOC-010,Summer Splash,PAID SOCIAL,last_click,733.24,3.0
+2025-08-05,SOC-010,Summer Splash,PAID SOCIAL,last_click,354.45,3.0
+2025-09-04,SOC-010,Summer Splash,PAID SOCIAL,first_click,414.78000000000003,3.0
+2025-08-19,SOC-011,Back-to-School,PAID SOCIAL,last_click,618.38,3.0
+2025-08-10,SOC-011,Back-to-School,PAID SOCIAL,last_click,351.83,3.0
+2025-09-05,SOC-011,Back-to-School,PAID SOCIAL,last_click,378.05999999999995,3.0
+2025-08-21,SOC-011,Back-to-School,PAID SOCIAL,last_click,687.08,3.0
+2025-08-11,SOC-011,Back-to-School,PAID SOCIAL,last_click,314.69,3.0
+2025-09-04,SOC-011,Back-to-School,PAID SOCIAL,last_click,547.41000000000008,3.0
+2025-09-16,SOC-011,Back-to-School,PAID SOCIAL,first_click,299.11,3.0
+2025-09-07,SOC-011,Back-to-School,PAID SOCIAL,first_click,208.33999999999997,3.0
+2025-09-06,SOC-011,Back-to-School,PAID SOCIAL,first_click,278.40999999999997,3.0
+2025-07-26,SOC-011,Back-to-School,PAID SOCIAL,last_click,167.42000000000002,3.0
+2025-08-05,SOC-011,Back-to-School,PAID SOCIAL,last_click,656.49,3.0
+2025-07-24,SOC-011,Back-to-School,PAID SOCIAL,first_click,426.87,3.0
+2025-09-18,SOC-011,Back-to-School,PAID SOCIAL,last_click,316.98,3.0
+2025-09-15,AFF-200,Top Affiliates,AFFILIATE,first_click,472.9,4.0
+2025-08-17,AFF-200,Top Affiliates,AFFILIATE,first_click,475.28,4.0
+2025-08-03,AFF-200,Top Affiliates,AFFILIATE,first_click,396.06000000000006,4.0
+2025-07-26,AFF-200,Top Affiliates,AFFILIATE,first_click,470.09000000000003,4.0
+2025-09-17,AFF-200,Top Affiliates,AFFILIATE,last_click,562.99,4.0
+2025-09-09,AFF-200,Top Affiliates,AFFILIATE,first_click,446.53000000000003,4.0
+2025-08-29,AFF-200,Top Affiliates,AFFILIATE,last_click,266.34000000000003,4.0
+2025-09-18,AFF-200,Top Affiliates,AFFILIATE,last_click,603.58999999999992,4.0
+2025-09-09,AFF-200,Top Affiliates,AFFILIATE,last_click,638.69,4.0
+2025-08-07,AFF-200,Top Affiliates,AFFILIATE,first_click,388.81,4.0
+2025-08-03,AFF-200,Top Affiliates,AFFILIATE,last_click,475.97,4.0
+2025-07-26,AFF-200,Top Affiliates,AFFILIATE,last_click,370.5,4.0
+2025-09-10,AFF-200,Top Affiliates,AFFILIATE,last_click,186.81,4.0
+2025-08-10,AFF-200,Top Affiliates,AFFILIATE,first_click,503.6,4.0
+2025-07-25,AFF-200,Top Affiliates,AFFILIATE,first_click,515.38,4.0
+2025-09-17,AFF-200,Top Affiliates,AFFILIATE,first_click,464.77,4.0
+2025-08-09,DSP-100,Awareness Blast,DISPLAY,first_click,327.28999999999996,4.0
+2025-09-14,DSP-100,Awareness Blast,DISPLAY,last_click,411.82,4.0
+2025-07-30,DSP-100,Awareness Blast,DISPLAY,last_click,451.37,4.0
+2025-07-25,DSP-100,Awareness Blast,DISPLAY,first_click,407.38,4.0
+2025-08-07,DSP-100,Awareness Blast,DISPLAY,last_click,407.49,4.0
+2025-08-19,DSP-100,Awareness Blast,DISPLAY,last_click,598.56000000000006,4.0
+2025-07-26,DSP-100,Awareness Blast,DISPLAY,last_click,288.92,4.0
+2025-07-24,DSP-100,Awareness Blast,DISPLAY,first_click,542.27,4.0
+2025-08-23,DSP-100,Awareness Blast,DISPLAY,last_click,819.32999999999993,4.0
+2025-08-12,DSP-100,Awareness Blast,DISPLAY,first_click,501.37,4.0
+2025-08-18,DSP-100,Awareness Blast,DISPLAY,first_click,422.15,4.0
+2025-08-04,DSP-100,Awareness Blast,DISPLAY,last_click,293.84000000000003,4.0
+2025-07-26,DSP-100,Awareness Blast,DISPLAY,first_click,509.39,4.0
+2025-08-08,DSP-100,Awareness Blast,DISPLAY,last_click,658.35,4.0
+2025-09-06,DSP-100,Awareness Blast,DISPLAY,last_click,698.87,4.0
+2025-09-03,DSP-100,Awareness Blast,DISPLAY,first_click,880.14,4.0
+2025-08-03,DSP-100,Awareness Blast,DISPLAY,last_click,179.88,4.0
+2025-09-03,DSP-100,Awareness Blast,DISPLAY,last_click,726.98,4.0
+2025-09-17,DSP-100,Awareness Blast,DISPLAY,last_click,384.46,4.0
+2025-08-21,SEA-001,Brand Search,PAID SEARCH,first_click,774.56000000000006,4.0
+2025-08-25,SEA-001,Brand Search,PAID SEARCH,last_click,809.93000000000006,4.0
+2025-07-27,SEA-001,Brand Search,PAID SEARCH,first_click,710.11999999999989,4.0
+2025-08-30,SEA-001,Brand Search,PAID SEARCH,last_click,606.13,4.0
+2025-08-17,SEA-001,Brand Search,PAID SEARCH,first_click,421.18999999999994,4.0
+2025-08-01,SEA-001,Brand Search,PAID SEARCH,first_click,484.94000000000005,4.0
+2025-07-23,SEA-001,Brand Search,PAID SEARCH,last_click,407.0,4.0
+2025-09-07,SEA-001,Brand Search,PAID SEARCH,last_click,826.93999999999994,4.0
+2025-08-25,SEA-001,Brand Search,PAID SEARCH,first_click,765.87000000000012,4.0
+2025-08-21,SEA-001,Brand Search,PAID SEARCH,last_click,512.8,4.0
+2025-07-24,SEA-001,Brand Search,PAID SEARCH,first_click,435.37,4.0
+2025-09-15,SEA-001,Brand Search,PAID SEARCH,first_click,401.79999999999995,4.0
+2025-08-27,SEA-001,Brand Search,PAID SEARCH,last_click,492.79999999999995,4.0
+2025-09-16,SEA-001,Brand Search,PAID SEARCH,last_click,380.88,4.0
+2025-09-15,SEA-001,Brand Search,PAID SEARCH,last_click,571.98,4.0
+2025-07-24,SEA-002,Competitor Conquest,PAID SEARCH,last_click,529.6,4.0
+2025-09-15,SEA-002,Competitor Conquest,PAID SEARCH,last_click,593.51,4.0
+2025-09-15,SEA-002,Competitor Conquest,PAID SEARCH,first_click,718.73,4.0
+2025-09-14,SEA-002,Competitor Conquest,PAID SEARCH,last_click,545.09999999999991,4.0
+2025-08-28,SEA-002,Competitor Conquest,PAID SEARCH,first_click,437.24,4.0
+2025-08-03,SEA-002,Competitor Conquest,PAID SEARCH,last_click,339.21000000000004,4.0
+2025-08-09,SEA-002,Competitor Conquest,PAID SEARCH,first_click,433.84,4.0
+2025-08-11,SEA-002,Competitor Conquest,PAID SEARCH,first_click,463.90999999999997,4.0
+2025-09-17,SEA-002,Competitor Conquest,PAID SEARCH,last_click,266.16,4.0
+2025-08-10,SEA-002,Competitor Conquest,PAID SEARCH,last_click,467.98,4.0
+2025-07-26,SEA-002,Competitor Conquest,PAID SEARCH,last_click,735.93000000000006,4.0
+2025-08-28,SEA-002,Competitor Conquest,PAID SEARCH,last_click,372.05,4.0
+2025-09-10,SOC-010,Summer Splash,PAID SOCIAL,last_click,599.91000000000008,4.0
+2025-08-29,SOC-010,Summer Splash,PAID SOCIAL,last_click,466.0,4.0
+2025-08-20,SOC-010,Summer Splash,PAID SOCIAL,last_click,854.95999999999992,4.0
+2025-09-13,SOC-010,Summer Splash,PAID SOCIAL,first_click,461.12,4.0
+2025-08-16,SOC-010,Summer Splash,PAID SOCIAL,last_click,558.28,4.0
+2025-09-07,SOC-010,Summer Splash,PAID SOCIAL,last_click,851.86000000000013,4.0
+2025-08-13,SOC-010,Summer Splash,PAID SOCIAL,last_click,694.03,4.0
+2025-08-07,SOC-010,Summer Splash,PAID SOCIAL,first_click,556.5,4.0
+2025-08-03,SOC-010,Summer Splash,PAID SOCIAL,first_click,444.33,4.0
+2025-08-09,SOC-010,Summer Splash,PAID SOCIAL,first_click,362.86,4.0
+2025-08-20,SOC-010,Summer Splash,PAID SOCIAL,first_click,459.22,4.0
+2025-08-05,SOC-010,Summer Splash,PAID SOCIAL,first_click,561.06000000000006,4.0
+2025-08-14,SOC-010,Summer Splash,PAID SOCIAL,first_click,600.21,4.0
+2025-09-17,SOC-010,Summer Splash,PAID SOCIAL,first_click,475.7,4.0
+2025-09-01,SOC-010,Summer Splash,PAID SOCIAL,last_click,775.74,4.0
+2025-07-25,SOC-010,Summer Splash,PAID SOCIAL,first_click,517.25,4.0
+2025-07-30,SOC-010,Summer Splash,PAID SOCIAL,first_click,373.88,4.0
+2025-08-18,SOC-011,Back-to-School,PAID SOCIAL,first_click,458.63,4.0
+2025-08-06,SOC-011,Back-to-School,PAID SOCIAL,last_click,373.10999999999996,4.0
+2025-08-16,SOC-011,Back-to-School,PAID SOCIAL,first_click,387.87,4.0
+2025-08-13,SOC-011,Back-to-School,PAID SOCIAL,last_click,327.36,4.0
+2025-09-06,SOC-011,Back-to-School,PAID SOCIAL,last_click,438.7,4.0
+2025-07-24,SOC-011,Back-to-School,PAID SOCIAL,last_click,599.25,4.0
+2025-08-05,SOC-011,Back-to-School,PAID SOCIAL,first_click,724.34999999999991,4.0
+2025-08-26,SOC-011,Back-to-School,PAID SOCIAL,first_click,387.38,4.0
+2025-08-13,SOC-011,Back-to-School,PAID SOCIAL,first_click,338.43,4.0
+2025-08-26,SOC-011,Back-to-School,PAID SOCIAL,last_click,373.61,4.0
+2025-07-30,SOC-011,Back-to-School,PAID SOCIAL,last_click,535.50000000000011,4.0
+2025-07-22,SOC-011,Back-to-School,PAID SOCIAL,last_click,424.15,4.0
+2025-08-02,SOC-011,Back-to-School,PAID SOCIAL,first_click,311.59000000000003,4.0
+2025-08-19,SOC-011,Back-to-School,PAID SOCIAL,first_click,446.46,4.0
+2025-09-02,SOC-011,Back-to-School,PAID SOCIAL,first_click,271.82,4.0
+2025-09-18,SOC-011,Back-to-School,PAID SOCIAL,first_click,424.87,4.0
+2025-07-28,SOC-011,Back-to-School,PAID SOCIAL,first_click,1011.85,4.0
+2025-08-01,SOC-011,Back-to-School,PAID SOCIAL,first_click,367.99,4.0
+2025-09-13,SOC-011,Back-to-School,PAID SOCIAL,first_click,326.61,4.0
+2025-08-05,AFF-200,Top Affiliates,AFFILIATE,last_click,661.19,5.0
+2025-09-05,AFF-200,Top Affiliates,AFFILIATE,last_click,381.11,5.0
+2025-09-07,AFF-200,Top Affiliates,AFFILIATE,last_click,864.07999999999993,5.0
+2025-08-21,AFF-200,Top Affiliates,AFFILIATE,last_click,700.58999999999992,5.0
+2025-09-12,AFF-200,Top Affiliates,AFFILIATE,first_click,788.01,5.0
+2025-08-28,AFF-200,Top Affiliates,AFFILIATE,last_click,1034.7399999999998,5.0
+2025-07-29,AFF-200,Top Affiliates,AFFILIATE,last_click,727.11,5.0
+2025-08-29,AFF-200,Top Affiliates,AFFILIATE,first_click,457.01,5.0
+2025-08-28,AFF-200,Top Affiliates,AFFILIATE,first_click,761.9,5.0
+2025-09-03,AFF-200,Top Affiliates,AFFILIATE,first_click,728.21999999999991,5.0
+2025-08-31,AFF-200,Top Affiliates,AFFILIATE,first_click,686.51,5.0
+2025-09-02,AFF-200,Top Affiliates,AFFILIATE,first_click,972.90000000000009,5.0
+2025-08-25,AFF-200,Top Affiliates,AFFILIATE,last_click,773.39,5.0
+2025-09-03,AFF-200,Top Affiliates,AFFILIATE,last_click,803.0,5.0
+2025-08-19,AFF-200,Top Affiliates,AFFILIATE,first_click,860.77,5.0
+2025-08-07,AFF-200,Top Affiliates,AFFILIATE,last_click,684.79,5.0
+2025-09-08,AFF-200,Top Affiliates,AFFILIATE,first_click,753.6,5.0
+2025-08-18,AFF-200,Top Affiliates,AFFILIATE,first_click,331.65999999999997,5.0
+2025-09-07,AFF-200,Top Affiliates,AFFILIATE,first_click,882.4899999999999,5.0
+2025-07-25,AFF-200,Top Affiliates,AFFILIATE,last_click,578.89,5.0
+2025-09-02,AFF-200,Top Affiliates,AFFILIATE,last_click,711.55,5.0
+2025-09-10,AFF-200,Top Affiliates,AFFILIATE,first_click,639.8599999999999,5.0
+2025-08-20,AFF-200,Top Affiliates,AFFILIATE,last_click,815.83999999999992,5.0
+2025-07-30,AFF-200,Top Affiliates,AFFILIATE,first_click,799.19,5.0
+2025-08-08,AFF-200,Top Affiliates,AFFILIATE,last_click,614.59999999999991,5.0
+2025-09-06,AFF-200,Top Affiliates,AFFILIATE,first_click,616.7,5.0
+2025-08-28,DSP-100,Awareness Blast,DISPLAY,first_click,655.55000000000007,5.0
+2025-08-16,DSP-100,Awareness Blast,DISPLAY,last_click,756.00000000000011,5.0
+2025-09-16,DSP-100,Awareness Blast,DISPLAY,first_click,766.77,5.0
+2025-08-25,DSP-100,Awareness Blast,DISPLAY,first_click,427.22,5.0
+2025-08-18,DSP-100,Awareness Blast,DISPLAY,last_click,262.19,5.0
+2025-07-29,DSP-100,Awareness Blast,DISPLAY,last_click,612.97,5.0
+2025-08-19,DSP-100,Awareness Blast,DISPLAY,first_click,828.62999999999988,5.0
+2025-09-08,DSP-100,Awareness Blast,DISPLAY,first_click,618.6400000000001,5.0
+2025-08-12,DSP-100,Awareness Blast,DISPLAY,last_click,814.53,5.0
+2025-08-02,DSP-100,Awareness Blast,DISPLAY,last_click,390.05999999999995,5.0
+2025-08-10,DSP-100,Awareness Blast,DISPLAY,first_click,581.06999999999994,5.0
+2025-09-09,DSP-100,Awareness Blast,DISPLAY,first_click,673.53,5.0
+2025-08-26,DSP-100,Awareness Blast,DISPLAY,first_click,675.64,5.0
+2025-08-05,DSP-100,Awareness Blast,DISPLAY,last_click,678.05000000000018,5.0
+2025-08-24,DSP-100,Awareness Blast,DISPLAY,last_click,523.56,5.0
+2025-09-14,DSP-100,Awareness Blast,DISPLAY,first_click,483.83000000000004,5.0
+2025-09-17,DSP-100,Awareness Blast,DISPLAY,first_click,575.91000000000008,5.0
+2025-08-26,SEA-001,Brand Search,PAID SEARCH,last_click,744.86999999999989,5.0
+2025-07-25,SEA-001,Brand Search,PAID SEARCH,first_click,758.77,5.0
+2025-09-01,SEA-001,Brand Search,PAID SEARCH,first_click,1239.4099999999999,5.0
+2025-09-18,SEA-001,Brand Search,PAID SEARCH,last_click,784.35,5.0
+2025-09-03,SEA-001,Brand Search,PAID SEARCH,last_click,682.66000000000008,5.0
+2025-09-01,SEA-001,Brand Search,PAID SEARCH,last_click,934.07999999999993,5.0
+2025-08-19,SEA-001,Brand Search,PAID SEARCH,first_click,678.18999999999994,5.0
+2025-08-29,SEA-001,Brand Search,PAID SEARCH,first_click,437.86,5.0
+2025-08-05,SEA-001,Brand Search,PAID SEARCH,first_click,450.95000000000005,5.0
+2025-08-28,SEA-001,Brand Search,PAID SEARCH,first_click,548.52,5.0
+2025-08-08,SEA-001,Brand Search,PAID SEARCH,first_click,543.02,5.0
+2025-08-17,SEA-001,Brand Search,PAID SEARCH,last_click,654.61,5.0
+2025-08-10,SEA-001,Brand Search,PAID SEARCH,last_click,401.68,5.0
+2025-08-02,SEA-001,Brand Search,PAID SEARCH,last_click,613.67000000000007,5.0
+2025-07-31,SEA-001,Brand Search,PAID SEARCH,first_click,802.56000000000006,5.0
+2025-08-17,SEA-002,Competitor Conquest,PAID SEARCH,last_click,273.44999999999993,5.0
+2025-09-03,SEA-002,Competitor Conquest,PAID SEARCH,first_click,778.65,5.0
+2025-08-23,SEA-002,Competitor Conquest,PAID SEARCH,first_click,657.77,5.0
+2025-09-10,SEA-002,Competitor Conquest,PAID SEARCH,last_click,337.83,5.0
+2025-08-15,SEA-002,Competitor Conquest,PAID SEARCH,first_click,460.99,5.0
+2025-08-16,SEA-002,Competitor Conquest,PAID SEARCH,first_click,870.89,5.0
+2025-07-24,SEA-002,Competitor Conquest,PAID SEARCH,first_click,835.88,5.0
+2025-09-10,SEA-002,Competitor Conquest,PAID SEARCH,first_click,316.01,5.0
+2025-08-03,SEA-002,Competitor Conquest,PAID SEARCH,first_click,604.44,5.0
+2025-09-02,SEA-002,Competitor Conquest,PAID SEARCH,last_click,984.41000000000008,5.0
+2025-09-08,SEA-002,Competitor Conquest,PAID SEARCH,first_click,481.66999999999996,5.0
+2025-08-31,SEA-002,Competitor Conquest,PAID SEARCH,last_click,467.48999999999995,5.0
+2025-09-09,SEA-002,Competitor Conquest,PAID SEARCH,first_click,742.28,5.0
+2025-08-21,SEA-002,Competitor Conquest,PAID SEARCH,first_click,733.35,5.0
+2025-08-17,SEA-002,Competitor Conquest,PAID SEARCH,first_click,394.95,5.0
+2025-09-01,SEA-002,Competitor Conquest,PAID SEARCH,last_click,870.30000000000007,5.0
+2025-09-14,SEA-002,Competitor Conquest,PAID SEARCH,first_click,637.05,5.0
+2025-09-17,SEA-002,Competitor Conquest,PAID SEARCH,first_click,458.85,5.0
+2025-08-14,SOC-010,Summer Splash,PAID SOCIAL,last_click,769.57999999999993,5.0
+2025-08-30,SOC-010,Summer Splash,PAID SOCIAL,last_click,636.62,5.0
+2025-08-24,SOC-010,Summer Splash,PAID SOCIAL,first_click,1001.6800000000001,5.0
+2025-09-10,SOC-010,Summer Splash,PAID SOCIAL,first_click,474.17000000000007,5.0
+2025-07-27,SOC-010,Summer Splash,PAID SOCIAL,first_click,900.31999999999994,5.0
+2025-08-17,SOC-010,Summer Splash,PAID SOCIAL,first_click,672.24999999999989,5.0
+2025-07-24,SOC-010,Summer Splash,PAID SOCIAL,first_click,743.46,5.0
+2025-08-21,SOC-010,Summer Splash,PAID SOCIAL,first_click,777.72,5.0
+2025-08-16,SOC-010,Summer Splash,PAID SOCIAL,first_click,448.15999999999997,5.0
+2025-08-15,SOC-010,Summer Splash,PAID SOCIAL,first_click,618.9,5.0
+2025-09-05,SOC-010,Summer Splash,PAID SOCIAL,last_click,793.27,5.0
+2025-08-17,SOC-010,Summer Splash,PAID SOCIAL,last_click,444.92999999999995,5.0
+2025-08-30,SOC-010,Summer Splash,PAID SOCIAL,first_click,692.05000000000007,5.0
+2025-07-31,SOC-010,Summer Splash,PAID SOCIAL,last_click,761.83999999999992,5.0
+2025-08-18,SOC-010,Summer Splash,PAID SOCIAL,first_click,856.69999999999993,5.0
+2025-09-02,SOC-010,Summer Splash,PAID SOCIAL,last_click,582.48,5.0
+2025-08-07,SOC-011,Back-to-School,PAID SOCIAL,first_click,361.03,5.0
+2025-09-15,SOC-011,Back-to-School,PAID SOCIAL,last_click,723.3,5.0
+2025-08-12,SOC-011,Back-to-School,PAID SOCIAL,first_click,646.06999999999994,5.0
+2025-07-28,SOC-011,Back-to-School,PAID SOCIAL,last_click,1179.23,5.0
+2025-09-11,SOC-011,Back-to-School,PAID SOCIAL,last_click,708.65000000000009,5.0
+2025-08-06,SOC-011,Back-to-School,PAID SOCIAL,first_click,479.55999999999995,5.0
+2025-08-24,SOC-011,Back-to-School,PAID SOCIAL,last_click,617.12,5.0
+2025-08-14,SOC-011,Back-to-School,PAID SOCIAL,first_click,618.31000000000006,5.0
+2025-08-07,SOC-011,Back-to-School,PAID SOCIAL,last_click,350.24,5.0
+2025-07-25,SOC-011,Back-to-School,PAID SOCIAL,last_click,561.5,5.0
+2025-08-22,SOC-011,Back-to-School,PAID SOCIAL,last_click,759.20999999999992,5.0
+2025-09-08,SOC-011,Back-to-School,PAID SOCIAL,last_click,812.67,5.0
+2025-09-03,SOC-011,Back-to-School,PAID SOCIAL,last_click,498.12,5.0
+2025-09-01,SOC-011,Back-to-School,PAID SOCIAL,first_click,603.22,5.0
+2025-08-21,SOC-011,Back-to-School,PAID SOCIAL,first_click,991.56,5.0
+2025-08-14,AFF-200,Top Affiliates,AFFILIATE,first_click,415.26,6.0
+2025-09-16,AFF-200,Top Affiliates,AFFILIATE,first_click,744.45,6.0
+2025-09-11,AFF-200,Top Affiliates,AFFILIATE,first_click,522.89,6.0
+2025-08-04,AFF-200,Top Affiliates,AFFILIATE,first_click,801.2800000000002,6.0
+2025-08-11,AFF-200,Top Affiliates,AFFILIATE,first_click,531.93999999999994,6.0
+2025-08-20,AFF-200,Top Affiliates,AFFILIATE,first_click,870.62999999999988,6.0
+2025-08-30,AFF-200,Top Affiliates,AFFILIATE,first_click,869.46,6.0
+2025-08-02,AFF-200,Top Affiliates,AFFILIATE,first_click,802.2,6.0
+2025-08-09,AFF-200,Top Affiliates,AFFILIATE,first_click,718.41000000000008,6.0
+2025-08-02,AFF-200,Top Affiliates,AFFILIATE,last_click,844.56,6.0
+2025-08-23,AFF-200,Top Affiliates,AFFILIATE,first_click,887.01,6.0
+2025-08-26,AFF-200,Top Affiliates,AFFILIATE,first_click,484.86,6.0
+2025-09-04,AFF-200,Top Affiliates,AFFILIATE,last_click,1027.26,6.0
+2025-09-12,AFF-200,Top Affiliates,AFFILIATE,last_click,955.1099999999999,6.0
+2025-08-21,AFF-200,Top Affiliates,AFFILIATE,first_click,822.89999999999986,6.0
+2025-08-11,AFF-200,Top Affiliates,AFFILIATE,last_click,571.7,6.0
+2025-08-12,AFF-200,Top Affiliates,AFFILIATE,last_click,581.81,6.0
+2025-09-08,AFF-200,Top Affiliates,AFFILIATE,last_click,640.06,6.0
+2025-09-15,AFF-200,Top Affiliates,AFFILIATE,last_click,750.52,6.0
+2025-08-09,AFF-200,Top Affiliates,AFFILIATE,last_click,678.92000000000007,6.0
+2025-07-29,AFF-200,Top Affiliates,AFFILIATE,first_click,556.51,6.0
+2025-07-31,AFF-200,Top Affiliates,AFFILIATE,first_click,585.04,6.0
+2025-08-17,DSP-100,Awareness Blast,DISPLAY,last_click,668.88,6.0
+2025-07-25,DSP-100,Awareness Blast,DISPLAY,last_click,873.15000000000009,6.0
+2025-08-21,DSP-100,Awareness Blast,DISPLAY,first_click,856.59999999999991,6.0
+2025-08-31,DSP-100,Awareness Blast,DISPLAY,first_click,708.03,6.0
+2025-08-21,DSP-100,Awareness Blast,DISPLAY,last_click,1057.8700000000001,6.0
+2025-09-11,DSP-100,Awareness Blast,DISPLAY,first_click,470.02,6.0
+2025-08-15,DSP-100,Awareness Blast,DISPLAY,first_click,818.44,6.0
+2025-08-20,DSP-100,Awareness Blast,DISPLAY,first_click,931.33999999999992,6.0
+2025-09-06,DSP-100,Awareness Blast,DISPLAY,first_click,824.9,6.0
+2025-08-17,DSP-100,Awareness Blast,DISPLAY,first_click,674.64999999999986,6.0
+2025-09-11,DSP-100,Awareness Blast,DISPLAY,last_click,5544.0199999999995,6.0
+2025-08-28,DSP-100,Awareness Blast,DISPLAY,last_click,737.2,6.0
+2025-08-04,DSP-100,Awareness Blast,DISPLAY,first_click,657.97,6.0
+2025-08-01,DSP-100,Awareness Blast,DISPLAY,first_click,715.90000000000009,6.0
+2025-09-12,DSP-100,Awareness Blast,DISPLAY,last_click,5488.2199999999993,6.0
+2025-08-05,DSP-100,Awareness Blast,DISPLAY,first_click,1053.3700000000001,6.0
+2025-08-01,DSP-100,Awareness Blast,DISPLAY,last_click,708.6400000000001,6.0
+2025-08-13,DSP-100,Awareness Blast,DISPLAY,first_click,848.7299999999999,6.0
+2025-08-15,DSP-100,Awareness Blast,DISPLAY,last_click,855.3599999999999,6.0
+2025-07-28,DSP-100,Awareness Blast,DISPLAY,first_click,861.68999999999994,6.0
+2025-08-03,DSP-100,Awareness Blast,DISPLAY,first_click,455.20000000000005,6.0
+2025-08-06,DSP-100,Awareness Blast,DISPLAY,first_click,785.63,6.0
+2025-08-27,DSP-100,Awareness Blast,DISPLAY,last_click,1097.21,6.0
+2025-08-27,DSP-100,Awareness Blast,DISPLAY,first_click,776.47,6.0
+2025-08-30,DSP-100,Awareness Blast,DISPLAY,first_click,858.01,6.0
+2025-09-07,DSP-100,Awareness Blast,DISPLAY,first_click,1002.28,6.0
+2025-08-02,SEA-001,Brand Search,PAID SEARCH,first_click,662.91000000000008,6.0
+2025-08-20,SEA-001,Brand Search,PAID SEARCH,first_click,656.08,6.0
+2025-08-11,SEA-001,Brand Search,PAID SEARCH,first_click,789.34,6.0
+2025-09-02,SEA-001,Brand Search,PAID SEARCH,last_click,918.19,6.0
+2025-08-13,SEA-001,Brand Search,PAID SEARCH,last_click,506.31000000000006,6.0
+2025-08-14,SEA-001,Brand Search,PAID SEARCH,first_click,716.1,6.0
+2025-07-26,SEA-001,Brand Search,PAID SEARCH,last_click,644.23,6.0
+2025-08-13,SEA-001,Brand Search,PAID SEARCH,first_click,540.74,6.0
+2025-09-10,SEA-001,Brand Search,PAID SEARCH,first_click,1013.95,6.0
+2025-08-01,SEA-001,Brand Search,PAID SEARCH,last_click,812.34,6.0
+2025-09-11,SEA-001,Brand Search,PAID SEARCH,first_click,5545.8499999999995,6.0
+2025-07-31,SEA-001,Brand Search,PAID SEARCH,last_click,911.36999999999989,6.0
+2025-08-24,SEA-001,Brand Search,PAID SEARCH,last_click,744.43,6.0
+2025-09-05,SEA-001,Brand Search,PAID SEARCH,last_click,608.06,6.0
+2025-08-25,SEA-002,Competitor Conquest,PAID SEARCH,last_click,1004.35,6.0
+2025-08-09,SEA-002,Competitor Conquest,PAID SEARCH,last_click,547.33,6.0
+2025-08-31,SEA-002,Competitor Conquest,PAID SEARCH,first_click,555.81,6.0
+2025-07-25,SEA-002,Competitor Conquest,PAID SEARCH,first_click,1268.5299999999997,6.0
+2025-08-30,SEA-002,Competitor Conquest,PAID SEARCH,first_click,613.9,6.0
+2025-08-26,SEA-002,Competitor Conquest,PAID SEARCH,last_click,577.99,6.0
+2025-08-29,SEA-002,Competitor Conquest,PAID SEARCH,last_click,1030.0,6.0
+2025-08-24,SEA-002,Competitor Conquest,PAID SEARCH,first_click,952.79000000000008,6.0
+2025-08-07,SEA-002,Competitor Conquest,PAID SEARCH,first_click,759.88,6.0
+2025-08-21,SEA-002,Competitor Conquest,PAID SEARCH,last_click,1029.5700000000002,6.0
+2025-08-14,SEA-002,Competitor Conquest,PAID SEARCH,first_click,715.22,6.0
+2025-08-12,SEA-002,Competitor Conquest,PAID SEARCH,first_click,648.76,6.0
+2025-08-27,SOC-010,Summer Splash,PAID SOCIAL,first_click,801.43,6.0
+2025-08-11,SOC-010,Summer Splash,PAID SOCIAL,first_click,657.05000000000007,6.0
+2025-07-28,SOC-010,Summer Splash,PAID SOCIAL,first_click,874.12999999999988,6.0
+2025-09-14,SOC-010,Summer Splash,PAID SOCIAL,first_click,824.47,6.0
+2025-09-08,SOC-010,Summer Splash,PAID SOCIAL,first_click,1040.94,6.0
+2025-09-05,SOC-010,Summer Splash,PAID SOCIAL,first_click,814.42000000000007,6.0
+2025-09-18,SOC-010,Summer Splash,PAID SOCIAL,last_click,1190.6,6.0
+2025-09-17,SOC-010,Summer Splash,PAID SOCIAL,last_click,696.06000000000006,6.0
+2025-08-02,SOC-010,Summer Splash,PAID SOCIAL,first_click,529.33,6.0
+2025-09-03,SOC-010,Summer Splash,PAID SOCIAL,last_click,953.79,6.0
+2025-07-30,SOC-010,Summer Splash,PAID SOCIAL,last_click,372.79,6.0
+2025-08-12,SOC-010,Summer Splash,PAID SOCIAL,last_click,860.05,6.0
+2025-08-27,SOC-010,Summer Splash,PAID SOCIAL,last_click,954.07999999999993,6.0
+2025-09-02,SOC-010,Summer Splash,PAID SOCIAL,first_click,797.03,6.0
+2025-07-31,SOC-010,Summer Splash,PAID SOCIAL,first_click,833.55,6.0
+2025-09-14,SOC-010,Summer Splash,PAID SOCIAL,last_click,1037.15,6.0
+2025-07-25,SOC-011,Back-to-School,PAID SOCIAL,first_click,819.31999999999994,6.0
+2025-08-04,SOC-011,Back-to-School,PAID SOCIAL,first_click,952.11999999999989,6.0
+2025-09-16,SOC-011,Back-to-School,PAID SOCIAL,last_click,659.36999999999989,6.0
+2025-08-15,SOC-011,Back-to-School,PAID SOCIAL,first_click,823.46999999999991,6.0
+2025-08-17,SOC-011,Back-to-School,PAID SOCIAL,first_click,640.06000000000006,6.0
+2025-09-10,SOC-011,Back-to-School,PAID SOCIAL,last_click,753.83999999999992,6.0
+2025-09-13,SOC-011,Back-to-School,PAID SOCIAL,last_click,1004.8,6.0
+2025-08-23,SOC-011,Back-to-School,PAID SOCIAL,first_click,947.08999999999992,6.0
+2025-07-29,SOC-011,Back-to-School,PAID SOCIAL,last_click,550.38,6.0
+2025-08-24,SOC-011,Back-to-School,PAID SOCIAL,first_click,625.19,6.0
+2025-08-01,SOC-011,Back-to-School,PAID SOCIAL,last_click,562.73,6.0
+2025-07-26,SOC-011,Back-to-School,PAID SOCIAL,first_click,591.02,6.0
+2025-07-30,SOC-011,Back-to-School,PAID SOCIAL,first_click,657.0200000000001,6.0
+2025-09-05,SOC-011,Back-to-School,PAID SOCIAL,first_click,641.78999999999985,6.0
+2025-09-07,SOC-011,Back-to-School,PAID SOCIAL,last_click,655.95999999999992,6.0
+2025-08-03,SOC-011,Back-to-School,PAID SOCIAL,last_click,734.75,6.0
+2025-08-14,SOC-011,Back-to-School,PAID SOCIAL,last_click,664.23,6.0
+2025-08-27,SOC-011,Back-to-School,PAID SOCIAL,last_click,603.97,6.0
+2025-08-22,AFF-200,Top Affiliates,AFFILIATE,first_click,898.87,7.0
+2025-09-14,AFF-200,Top Affiliates,AFFILIATE,first_click,613.81000000000006,7.0
+2025-08-08,AFF-200,Top Affiliates,AFFILIATE,first_click,1090.22,7.0
+2025-08-30,AFF-200,Top Affiliates,AFFILIATE,last_click,839.55,7.0
+2025-08-04,AFF-200,Top Affiliates,AFFILIATE,last_click,999.27,7.0
+2025-08-22,AFF-200,Top Affiliates,AFFILIATE,last_click,1177.1000000000001,7.0
+2025-07-31,AFF-200,Top Affiliates,AFFILIATE,last_click,724.05,7.0
+2025-08-14,AFF-200,Top Affiliates,AFFILIATE,last_click,673.37,7.0
+2025-07-30,AFF-200,Top Affiliates,AFFILIATE,last_click,976.28,7.0
+2025-08-24,AFF-200,Top Affiliates,AFFILIATE,first_click,917.2,7.0
+2025-08-24,AFF-200,Top Affiliates,AFFILIATE,last_click,950.49000000000012,7.0
+2025-09-10,DSP-100,Awareness Blast,DISPLAY,last_click,770.34999999999991,7.0
+2025-08-29,DSP-100,Awareness Blast,DISPLAY,last_click,970.64,7.0
+2025-09-04,DSP-100,Awareness Blast,DISPLAY,last_click,1022.1100000000001,7.0
+2025-09-10,DSP-100,Awareness Blast,DISPLAY,first_click,998.35,7.0
+2025-08-20,DSP-100,Awareness Blast,DISPLAY,last_click,1097.9399999999998,7.0
+2025-07-24,DSP-100,Awareness Blast,DISPLAY,last_click,1247.02,7.0
+2025-09-12,DSP-100,Awareness Blast,DISPLAY,first_click,6016.01,7.0
+2025-08-11,DSP-100,Awareness Blast,DISPLAY,last_click,856.95,7.0
+2025-07-30,DSP-100,Awareness Blast,DISPLAY,first_click,741.96,7.0
+2025-08-06,DSP-100,Awareness Blast,DISPLAY,last_click,931.33,7.0
+2025-08-26,DSP-100,Awareness Blast,DISPLAY,last_click,847.09,7.0
+2025-07-29,SEA-001,Brand Search,PAID SEARCH,last_click,815.94999999999993,7.0
+2025-08-28,SEA-001,Brand Search,PAID SEARCH,last_click,866.08,7.0
+2025-08-31,SEA-001,Brand Search,PAID SEARCH,first_click,563.35,7.0
+2025-08-20,SEA-001,Brand Search,PAID SEARCH,last_click,547.66000000000008,7.0
+2025-08-07,SEA-001,Brand Search,PAID SEARCH,first_click,802.5200000000001,7.0
+2025-09-14,SEA-001,Brand Search,PAID SEARCH,last_click,758.64,7.0
+2025-09-04,SEA-001,Brand Search,PAID SEARCH,last_click,885.12,7.0
+2025-08-07,SEA-001,Brand Search,PAID SEARCH,last_click,1186.7600000000002,7.0
+2025-08-24,SEA-001,Brand Search,PAID SEARCH,first_click,1000.5700000000002,7.0
+2025-08-16,SEA-001,Brand Search,PAID SEARCH,last_click,644.72,7.0
+2025-08-11,SEA-001,Brand Search,PAID SEARCH,last_click,951.87,7.0
+2025-07-31,SEA-002,Competitor Conquest,PAID SEARCH,last_click,463.01000000000005,7.0
+2025-08-26,SEA-002,Competitor Conquest,PAID SEARCH,first_click,1034.7299999999998,7.0
+2025-08-15,SEA-002,Competitor Conquest,PAID SEARCH,last_click,705.86,7.0
+2025-08-01,SEA-002,Competitor Conquest,PAID SEARCH,last_click,927.7600000000001,7.0
+2025-08-07,SEA-002,Competitor Conquest,PAID SEARCH,last_click,948.82,7.0
+2025-08-06,SEA-002,Competitor Conquest,PAID SEARCH,first_click,629.0,7.0
+2025-07-31,SEA-002,Competitor Conquest,PAID SEARCH,first_click,624.43000000000006,7.0
+2025-09-09,SEA-002,Competitor Conquest,PAID SEARCH,last_click,625.16000000000008,7.0
+2025-07-30,SEA-002,Competitor Conquest,PAID SEARCH,first_click,787.45,7.0
+2025-08-06,SEA-002,Competitor Conquest,PAID SEARCH,last_click,472.65000000000003,7.0
+2025-07-25,SEA-002,Competitor Conquest,PAID SEARCH,last_click,1593.8700000000001,7.0
+2025-09-01,SEA-002,Competitor Conquest,PAID SEARCH,first_click,897.56000000000006,7.0
+2025-09-03,SEA-002,Competitor Conquest,PAID SEARCH,last_click,909.22,7.0
+2025-08-23,SEA-002,Competitor Conquest,PAID SEARCH,last_click,1038.6100000000001,7.0
+2025-07-29,SOC-010,Summer Splash,PAID SOCIAL,last_click,892.51,7.0
+2025-09-06,SOC-010,Summer Splash,PAID SOCIAL,last_click,601.24,7.0
+2025-08-18,SOC-010,Summer Splash,PAID SOCIAL,last_click,1112.1,7.0
+2025-08-25,SOC-010,Summer Splash,PAID SOCIAL,last_click,947.3599999999999,7.0
+2025-08-11,SOC-010,Summer Splash,PAID SOCIAL,last_click,816.36,7.0
+2025-09-09,SOC-010,Summer Splash,PAID SOCIAL,first_click,755.59,7.0
+2025-08-03,SOC-010,Summer Splash,PAID SOCIAL,last_click,923.34,7.0
+2025-08-01,SOC-010,Summer Splash,PAID SOCIAL,last_click,811.16000000000008,7.0
+2025-08-21,SOC-010,Summer Splash,PAID SOCIAL,last_click,968.78,7.0
+2025-08-31,SOC-010,Summer Splash,PAID SOCIAL,last_click,941.94,7.0
+2025-08-02,SOC-010,Summer Splash,PAID SOCIAL,last_click,694.2,7.0
+2025-08-01,SOC-010,Summer Splash,PAID SOCIAL,first_click,982.05000000000007,7.0
+2025-09-08,SOC-010,Summer Splash,PAID SOCIAL,last_click,927.33,7.0
+2025-07-27,SOC-010,Summer Splash,PAID SOCIAL,last_click,1003.48,7.0
+2025-07-31,SOC-011,Back-to-School,PAID SOCIAL,first_click,855.23,7.0
+2025-09-02,SOC-011,Back-to-School,PAID SOCIAL,last_click,625.71,7.0
+2025-08-15,SOC-011,Back-to-School,PAID SOCIAL,last_click,998.35,7.0
+2025-09-03,SOC-011,Back-to-School,PAID SOCIAL,first_click,979.56000000000006,7.0
+2025-08-02,SOC-011,Back-to-School,PAID SOCIAL,last_click,535.37,7.0
+2025-08-31,SOC-011,Back-to-School,PAID SOCIAL,first_click,821.06000000000006,7.0
+2025-07-31,SOC-011,Back-to-School,PAID SOCIAL,last_click,907.31,7.0
+2025-08-12,SOC-011,Back-to-School,PAID SOCIAL,last_click,693.30000000000007,7.0
+2025-08-04,SOC-011,Back-to-School,PAID SOCIAL,last_click,746.66999999999985,7.0
+2025-08-22,SOC-011,Back-to-School,PAID SOCIAL,first_click,711.85,7.0
+2025-08-17,SOC-011,Back-to-School,PAID SOCIAL,last_click,980.54,7.0
+2025-08-27,SOC-011,Back-to-School,PAID SOCIAL,first_click,976.1,7.0
+2025-08-03,SOC-011,Back-to-School,PAID SOCIAL,first_click,980.48,7.0
+2025-09-01,AFF-200,Top Affiliates,AFFILIATE,first_click,1129.2600000000002,8.0
+2025-07-27,AFF-200,Top Affiliates,AFFILIATE,first_click,900.51,8.0
+2025-08-25,AFF-200,Top Affiliates,AFFILIATE,first_click,1226.8000000000002,8.0
+2025-07-27,DSP-100,Awareness Blast,DISPLAY,last_click,545.46,8.0
+2025-09-04,DSP-100,Awareness Blast,DISPLAY,first_click,1343.44,8.0
+2025-08-11,DSP-100,Awareness Blast,DISPLAY,first_click,822.54000000000008,8.0
+2025-09-09,DSP-100,Awareness Blast,DISPLAY,last_click,1189.3100000000002,8.0
+2025-07-31,DSP-100,Awareness Blast,DISPLAY,last_click,815.96,8.0
+2025-08-31,DSP-100,Awareness Blast,DISPLAY,last_click,817.2700000000001,8.0
+2025-08-29,DSP-100,Awareness Blast,DISPLAY,first_click,1196.3300000000002,8.0
+2025-08-08,DSP-100,Awareness Blast,DISPLAY,first_click,1159.06,8.0
+2025-08-25,DSP-100,Awareness Blast,DISPLAY,last_click,813.68999999999994,8.0
+2025-08-30,DSP-100,Awareness Blast,DISPLAY,last_click,1209.74,8.0
+2025-09-14,SEA-001,Brand Search,PAID SEARCH,first_click,960.41,8.0
+2025-09-08,SEA-001,Brand Search,PAID SEARCH,first_click,1244.46,8.0
+2025-08-18,SEA-001,Brand Search,PAID SEARCH,last_click,1027.1000000000001,8.0
+2025-08-23,SEA-001,Brand Search,PAID SEARCH,first_click,1009.5799999999999,8.0
+2025-08-31,SEA-001,Brand Search,PAID SEARCH,last_click,849.57,8.0
+2025-09-09,SEA-001,Brand Search,PAID SEARCH,last_click,1103.1200000000001,8.0
+2025-08-08,SEA-001,Brand Search,PAID SEARCH,last_click,1096.1499999999999,8.0
+2025-08-29,SEA-002,Competitor Conquest,PAID SEARCH,first_click,958.21999999999991,8.0
+2025-08-05,SEA-002,Competitor Conquest,PAID SEARCH,first_click,1144.18,8.0
+2025-08-14,SEA-002,Competitor Conquest,PAID SEARCH,last_click,1116.65,8.0
+2025-08-13,SEA-002,Competitor Conquest,PAID SEARCH,last_click,1086.1,8.0
+2025-08-08,SEA-002,Competitor Conquest,PAID SEARCH,last_click,1037.38,8.0
+2025-08-11,SEA-002,Competitor Conquest,PAID SEARCH,last_click,701.15999999999985,8.0
+2025-09-13,SEA-002,Competitor Conquest,PAID SEARCH,first_click,933.74999999999989,8.0
+2025-09-08,SEA-002,Competitor Conquest,PAID SEARCH,last_click,1189.2199999999998,8.0
+2025-08-20,SEA-002,Competitor Conquest,PAID SEARCH,first_click,734.24,8.0
+2025-09-12,SEA-002,Competitor Conquest,PAID SEARCH,last_click,1608.71,8.0
+2025-07-29,SEA-002,Competitor Conquest,PAID SEARCH,first_click,1272.79,8.0
+2025-07-30,SEA-002,Competitor Conquest,PAID SEARCH,last_click,1023.5600000000001,8.0
+2025-09-12,SEA-002,Competitor Conquest,PAID SEARCH,first_click,1454.59,8.0
+2025-08-20,SEA-002,Competitor Conquest,PAID SEARCH,last_click,812.13,8.0
+2025-08-24,SEA-002,Competitor Conquest,PAID SEARCH,last_click,1522.01,8.0
+2025-08-01,SEA-002,Competitor Conquest,PAID SEARCH,first_click,1103.89,8.0
+2025-08-07,SOC-010,Summer Splash,PAID SOCIAL,last_click,518.08999999999992,8.0
+2025-08-29,SOC-010,Summer Splash,PAID SOCIAL,first_click,1070.41,8.0
+2025-08-08,SOC-010,Summer Splash,PAID SOCIAL,first_click,972.28000000000009,8.0
+2025-07-28,SOC-010,Summer Splash,PAID SOCIAL,last_click,826.7,8.0
+2025-08-25,SOC-010,Summer Splash,PAID SOCIAL,first_click,1072.6200000000001,8.0
+2025-09-12,SOC-010,Summer Splash,PAID SOCIAL,last_click,757.95,8.0
+2025-08-28,SOC-010,Summer Splash,PAID SOCIAL,last_click,925.51,8.0
+2025-09-15,SOC-010,Summer Splash,PAID SOCIAL,first_click,1204.53,8.0
+2025-09-03,SOC-010,Summer Splash,PAID SOCIAL,first_click,873.83,8.0
+2025-09-12,SOC-010,Summer Splash,PAID SOCIAL,first_click,764.03,8.0
+2025-08-13,SOC-010,Summer Splash,PAID SOCIAL,first_click,1246.72,8.0
+2025-08-06,SOC-010,Summer Splash,PAID SOCIAL,last_click,1187.27,8.0
+2025-09-17,SOC-011,Back-to-School,PAID SOCIAL,first_click,884.06,8.0
+2025-08-11,SOC-011,Back-to-School,PAID SOCIAL,first_click,947.95,8.0
+2025-08-08,SOC-011,Back-to-School,PAID SOCIAL,first_click,1017.81,8.0
+2025-09-14,SOC-011,Back-to-School,PAID SOCIAL,last_click,830.02,8.0
+2025-09-11,SOC-011,Back-to-School,PAID SOCIAL,first_click,1021.0099999999999,8.0
+2025-09-10,SOC-011,Back-to-School,PAID SOCIAL,first_click,828.26,8.0
+2025-09-17,SOC-011,Back-to-School,PAID SOCIAL,last_click,1022.8,8.0
+2025-07-29,SOC-011,Back-to-School,PAID SOCIAL,first_click,1030.13,8.0
+2025-08-28,SOC-011,Back-to-School,PAID SOCIAL,last_click,1423.8700000000001,8.0
+2025-08-08,SOC-011,Back-to-School,PAID SOCIAL,last_click,1020.8399999999999,8.0
+2025-09-14,SOC-011,Back-to-School,PAID SOCIAL,first_click,976.29,8.0
+2025-08-27,AFF-200,Top Affiliates,AFFILIATE,last_click,1030.75,9.0
+2025-08-12,AFF-200,Top Affiliates,AFFILIATE,first_click,1126.67,9.0
+2025-09-04,AFF-200,Top Affiliates,AFFILIATE,first_click,1494.5900000000001,9.0
+2025-08-19,AFF-200,Top Affiliates,AFFILIATE,last_click,1188.39,9.0
+2025-08-27,AFF-200,Top Affiliates,AFFILIATE,first_click,933.49,9.0
+2025-07-31,DSP-100,Awareness Blast,DISPLAY,first_click,882.73,9.0
+2025-08-13,DSP-100,Awareness Blast,DISPLAY,last_click,1016.31,9.0
+2025-09-15,DSP-100,Awareness Blast,DISPLAY,first_click,1084.68,9.0
+2025-08-02,DSP-100,Awareness Blast,DISPLAY,first_click,1046.0400000000002,9.0
+2025-08-29,SEA-001,Brand Search,PAID SEARCH,last_click,1273.08,9.0
+2025-09-02,SEA-001,Brand Search,PAID SEARCH,first_click,1442.46,9.0
+2025-07-29,SEA-001,Brand Search,PAID SEARCH,first_click,928.45,9.0
+2025-09-11,SEA-001,Brand Search,PAID SEARCH,last_click,1055.8700000000001,9.0
+2025-08-18,SEA-002,Competitor Conquest,PAID SEARCH,first_click,1287.56,9.0
+2025-08-02,SEA-002,Competitor Conquest,PAID SEARCH,first_click,1602.6999999999998,9.0
+2025-08-22,SEA-002,Competitor Conquest,PAID SEARCH,last_click,1192.8200000000002,9.0
+2025-08-13,SEA-002,Competitor Conquest,PAID SEARCH,first_click,1017.74,9.0
+2025-08-31,SOC-010,Summer Splash,PAID SOCIAL,first_click,1201.31,9.0
+2025-07-29,SOC-010,Summer Splash,PAID SOCIAL,first_click,1261.51,9.0
+2025-09-15,SOC-010,Summer Splash,PAID SOCIAL,last_click,1340.93,9.0
+2025-08-06,SOC-010,Summer Splash,PAID SOCIAL,first_click,1161.26,9.0
+2025-08-31,SOC-011,Back-to-School,PAID SOCIAL,last_click,912.96,9.0
+2025-08-09,SOC-011,Back-to-School,PAID SOCIAL,first_click,1167.92,9.0
+2025-08-29,SOC-011,Back-to-School,PAID SOCIAL,first_click,773.28000000000009,9.0
+2025-08-30,SOC-011,Back-to-School,PAID SOCIAL,last_click,819.89,9.0
+2025-08-28,SOC-011,Back-to-School,PAID SOCIAL,first_click,1649.79,9.0
+2025-08-25,SOC-011,Back-to-School,PAID SOCIAL,last_click,806.40000000000009,9.0
+2025-08-01,AFF-200,Top Affiliates,AFFILIATE,last_click,1543.33,10.0
+2025-08-06,AFF-200,Top Affiliates,AFFILIATE,last_click,1002.87,10.0
+2025-09-13,AFF-200,Top Affiliates,AFFILIATE,first_click,1407.2499999999998,10.0
+2025-09-14,AFF-200,Top Affiliates,AFFILIATE,last_click,913.13,10.0
+2025-08-14,DSP-100,Awareness Blast,DISPLAY,last_click,1409.7199999999998,10.0
+2025-08-22,DSP-100,Awareness Blast,DISPLAY,first_click,1193.7600000000002,10.0
+2025-08-07,DSP-100,Awareness Blast,DISPLAY,first_click,1227.4499999999998,10.0
+2025-08-06,SEA-001,Brand Search,PAID SEARCH,first_click,1308.45,10.0
+2025-09-13,SEA-001,Brand Search,PAID SEARCH,last_click,1191.06,10.0
+2025-09-10,SEA-001,Brand Search,PAID SEARCH,last_click,1621.86,10.0
+2025-07-27,SEA-001,Brand Search,PAID SEARCH,last_click,1179.4199999999998,10.0
+2025-08-22,SEA-001,Brand Search,PAID SEARCH,first_click,1492.92,10.0
+2025-08-08,SEA-002,Competitor Conquest,PAID SEARCH,first_click,1273.54,10.0
+2025-08-02,SEA-002,Competitor Conquest,PAID SEARCH,last_click,1876.9099999999999,10.0
+2025-09-13,SEA-002,Competitor Conquest,PAID SEARCH,last_click,1186.37,10.0
+2025-08-22,SEA-002,Competitor Conquest,PAID SEARCH,first_click,1463.5200000000002,10.0
+2025-08-05,SEA-002,Competitor Conquest,PAID SEARCH,last_click,1586.35,10.0
+2025-08-28,SOC-010,Summer Splash,PAID SOCIAL,first_click,1306.4500000000003,10.0
+2025-09-11,SOC-010,Summer Splash,PAID SOCIAL,first_click,1081.1200000000001,10.0
+2025-09-09,SOC-011,Back-to-School,PAID SOCIAL,first_click,1211.44,10.0
+2025-09-01,SOC-011,Back-to-School,PAID SOCIAL,last_click,1246.0099999999998,10.0
+2025-09-12,SOC-011,Back-to-School,PAID SOCIAL,first_click,1266.24,10.0
+2025-08-09,SOC-011,Back-to-School,PAID SOCIAL,last_click,1096.75,10.0
+2025-08-30,SOC-011,Back-to-School,PAID SOCIAL,first_click,1054.4999999999998,10.0
+2025-08-20,SOC-011,Back-to-School,PAID SOCIAL,last_click,1282.6599999999999,10.0
+2025-09-15,SOC-011,Back-to-School,PAID SOCIAL,first_click,1440.0699999999997,10.0
+2025-08-06,AFF-200,Top Affiliates,AFFILIATE,first_click,1091.08,11.0
+2025-07-27,AFF-200,Top Affiliates,AFFILIATE,last_click,1113.1,11.0
+2025-09-13,AFF-200,Top Affiliates,AFFILIATE,last_click,1529.35,11.0
+2025-08-22,DSP-100,Awareness Blast,DISPLAY,last_click,1285.67,11.0
+2025-09-15,DSP-100,Awareness Blast,DISPLAY,last_click,1342.47,11.0
+2025-07-27,DSP-100,Awareness Blast,DISPLAY,first_click,968.41,11.0
+2025-08-14,DSP-100,Awareness Blast,DISPLAY,first_click,1700.23,11.0
+2025-08-23,SEA-001,Brand Search,PAID SEARCH,last_click,1484.78,11.0
+2025-09-09,SEA-001,Brand Search,PAID SEARCH,first_click,1477.5299999999997,11.0
+2025-09-12,SEA-001,Brand Search,PAID SEARCH,last_click,1315.31,11.0
+2025-07-27,SEA-002,Competitor Conquest,PAID SEARCH,first_click,949.91000000000008,11.0
+2025-09-18,SOC-010,Summer Splash,PAID SOCIAL,first_click,1582.5400000000002,11.0
+2025-08-22,SOC-010,Summer Splash,PAID SOCIAL,last_click,2022.81,11.0
+2025-08-22,SOC-010,Summer Splash,PAID SOCIAL,first_click,2099.21,11.0
+2025-08-25,SOC-011,Back-to-School,PAID SOCIAL,first_click,1299.08,11.0
+2025-08-20,SOC-011,Back-to-School,PAID SOCIAL,first_click,1759.6799999999998,11.0
+2025-09-12,SOC-011,Back-to-School,PAID SOCIAL,last_click,1210.13,11.0
+2025-08-22,SEA-001,Brand Search,PAID SEARCH,last_click,1422.52,12.0
+2025-08-06,SEA-001,Brand Search,PAID SEARCH,last_click,1487.7499999999998,12.0
+2025-09-12,SEA-001,Brand Search,PAID SEARCH,first_click,1046.5499999999997,12.0
+2025-07-29,SEA-002,Competitor Conquest,PAID SEARCH,last_click,1665.3799999999999,12.0
+2025-09-04,SEA-002,Competitor Conquest,PAID SEARCH,last_click,1594.5700000000002,12.0
+2025-09-09,SOC-011,Back-to-School,PAID SOCIAL,last_click,1332.22,12.0
+2025-07-27,SOC-011,Back-to-School,PAID SOCIAL,last_click,1628.29,12.0
+2025-07-27,SOC-011,Back-to-School,PAID SOCIAL,first_click,1506.83,12.0
+2025-08-01,AFF-200,Top Affiliates,AFFILIATE,first_click,1711.1899999999998,13.0
+2025-09-13,DSP-100,Awareness Blast,DISPLAY,last_click,6804.7500000000009,13.0
+2025-09-13,SEA-001,Brand Search,PAID SEARCH,first_click,2034.3600000000004,13.0
+2025-09-04,SEA-002,Competitor Conquest,PAID SEARCH,first_click,1456.51,13.0
+2025-09-11,SOC-010,Summer Splash,PAID SOCIAL,last_click,1171.76,13.0
+2025-08-08,SOC-010,Summer Splash,PAID SOCIAL,last_click,1628.6100000000001,13.0
+2025-08-29,SOC-011,Back-to-School,PAID SOCIAL,last_click,887.05,13.0

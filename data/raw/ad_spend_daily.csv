@@ -1,0 +1,367 @@
+date,campaign_id,campaign_name,channel,spend,impressions,clicks
+2025-07-20,SEA-001,Brand Search,Paid Search,1061.81,27862,72
+2025-07-20,SEA-002,Competitor Conquest,Paid Search,1562.11,44510,109
+2025-07-20,SOC-010,Summer Splash,Paid Social,520.09,19387,38
+2025-07-20,SOC-011,Back-to-School,Paid Social,650.57,33444,35
+2025-07-20,DSP-100,Awareness Blast,Display,555.45,24607,34
+2025-07-20,AFF-200,Top Affiliates,Affiliate,92.71,3690,10
+2025-07-21,SEA-001,Brand Search,Paid Search,551.58,17909,50
+2025-07-21,SEA-002,Competitor Conquest,Paid Search,777.28,43366,57
+2025-07-21,SOC-010,Summer Splash,Paid Social,1406.25,30669,88
+2025-07-21,SOC-011,Back-to-School,Paid Social,1294.49,53990,78
+2025-07-21,DSP-100,Awareness Blast,Display,244.73,12454,19
+2025-07-21,AFF-200,Top Affiliates,Affiliate,175.46,4322,16
+2025-07-22,SEA-001,Brand Search,Paid Search,1794.66,58217,125
+2025-07-22,SEA-002,Competitor Conquest,Paid Search,1456.34,70675,92
+2025-07-22,SOC-010,Summer Splash,Paid Social,973.53,39826,62
+2025-07-22,SOC-011,Back-to-School,Paid Social,337.72,13624,22
+2025-07-22,DSP-100,Awareness Blast,Display,446.23,13008,28
+2025-07-22,AFF-200,Top Affiliates,Affiliate,271.69,14904,15
+2025-07-23,SEA-001,Brand Search,Paid Search,1705.51,89193,112
+2025-07-23,SEA-002,Competitor Conquest,Paid Search,665.08,36199,47
+2025-07-23,SOC-010,Summer Splash,Paid Social,912.9,22634,63
+2025-07-23,SOC-011,Back-to-School,Paid Social,922.55,54311,60
+2025-07-23,DSP-100,Awareness Blast,Display,498.35,15644,33
+2025-07-23,AFF-200,Top Affiliates,Affiliate,367.89,10883,22
+2025-07-24,SEA-001,Brand Search,Paid Search,717.34,33632,43
+2025-07-24,SEA-002,Competitor Conquest,Paid Search,1592.32,65971,110
+2025-07-24,SOC-010,Summer Splash,Paid Social,1302.36,28171,95
+2025-07-24,SOC-011,Back-to-School,Paid Social,914.51,24668,65
+2025-07-24,DSP-100,Awareness Blast,Display,762.04,25636,49
+2025-07-24,AFF-200,Top Affiliates,Affiliate,235.38,6984,18
+2025-07-25,SEA-001,Brand Search,Paid Search,768.68,26110,53
+2025-07-25,SEA-002,Competitor Conquest,Paid Search,2102.46,117616,141
+2025-07-25,SOC-010,Summer Splash,Paid Social,342.61,9056,32
+2025-07-25,SOC-011,Back-to-School,Paid Social,681.59,33984,47
+2025-07-25,DSP-100,Awareness Blast,Display,670.73,23280,40
+2025-07-25,AFF-200,Top Affiliates,Affiliate,362.58,14541,20
+2025-07-26,SEA-001,Brand Search,Paid Search,1616.9,33910,102
+2025-07-26,SEA-002,Competitor Conquest,Paid Search,2110.62,120585,143
+2025-07-26,SOC-010,Summer Splash,Paid Social,1734.95,61424,113
+2025-07-26,SOC-011,Back-to-School,Paid Social,1230.55,29394,86
+2025-07-26,DSP-100,Awareness Blast,Display,387.22,19218,31
+2025-07-26,AFF-200,Top Affiliates,Affiliate,453.65,25644,35
+2025-07-27,SEA-001,Brand Search,Paid Search,1660.54,86068,109
+2025-07-27,SEA-002,Competitor Conquest,Paid Search,1318.24,54978,91
+2025-07-27,SOC-010,Summer Splash,Paid Social,1358.9,46756,90
+2025-07-27,SOC-011,Back-to-School,Paid Social,623.55,25724,36
+2025-07-27,DSP-100,Awareness Blast,Display,797.68,26258,49
+2025-07-27,AFF-200,Top Affiliates,Affiliate,522.66,25003,39
+2025-07-28,SEA-001,Brand Search,Paid Search,1408.23,68417,87
+2025-07-28,SEA-002,Competitor Conquest,Paid Search,2368.77,70847,162
+2025-07-28,SOC-010,Summer Splash,Paid Social,1347.05,29135,92
+2025-07-28,SOC-011,Back-to-School,Paid Social,480.83,17960,35
+2025-07-28,DSP-100,Awareness Blast,Display,704.46,31725,52
+2025-07-28,AFF-200,Top Affiliates,Affiliate,304.52,13225,20
+2025-07-29,SEA-001,Brand Search,Paid Search,2364.01,98873,156
+2025-07-29,SEA-002,Competitor Conquest,Paid Search,2194.67,45493,149
+2025-07-29,SOC-010,Summer Splash,Paid Social,1515.35,31717,98
+2025-07-29,SOC-011,Back-to-School,Paid Social,1500.22,78220,104
+2025-07-29,DSP-100,Awareness Blast,Display,908.66,33170,66
+2025-07-29,AFF-200,Top Affiliates,Affiliate,265.25,13310,14
+2025-07-30,SEA-001,Brand Search,Paid Search,783.01,43708,53
+2025-07-30,SEA-002,Competitor Conquest,Paid Search,2287.91,75836,151
+2025-07-30,SOC-010,Summer Splash,Paid Social,1356.05,53939,90
+2025-07-30,SOC-011,Back-to-School,Paid Social,1560.34,78735,100
+2025-07-30,DSP-100,Awareness Blast,Display,280.98,14856,16
+2025-07-30,AFF-200,Top Affiliates,Affiliate,241.52,13981,17
+2025-07-31,SEA-001,Brand Search,Paid Search,2638.29,111695,180
+2025-07-31,SEA-002,Competitor Conquest,Paid Search,744.74,18434,48
+2025-07-31,SOC-010,Summer Splash,Paid Social,1498.43,52437,103
+2025-07-31,SOC-011,Back-to-School,Paid Social,1620.3,90163,106
+2025-07-31,DSP-100,Awareness Blast,Display,339.74,13903,29
+2025-07-31,AFF-200,Top Affiliates,Affiliate,406.93,12711,31
+2025-08-01,SEA-001,Brand Search,Paid Search,1925.62,59877,127
+2025-08-01,SEA-002,Competitor Conquest,Paid Search,1030.03,61233,61
+2025-08-01,SOC-010,Summer Splash,Paid Social,943.32,44703,66
+2025-08-01,SOC-011,Back-to-School,Paid Social,1419.27,29882,102
+2025-08-01,DSP-100,Awareness Blast,Display,792.37,34678,54
+2025-08-01,AFF-200,Top Affiliates,Affiliate,195.19,6038,12
+2025-08-02,SEA-001,Brand Search,Paid Search,584.56,34995,46
+2025-08-02,SEA-002,Competitor Conquest,Paid Search,1917.15,48247,129
+2025-08-02,SOC-010,Summer Splash,Paid Social,1027.41,45951,64
+2025-08-02,SOC-011,Back-to-School,Paid Social,924.37,49996,60
+2025-08-02,DSP-100,Awareness Blast,Display,725.99,18411,55
+2025-08-02,AFF-200,Top Affiliates,Affiliate,172.71,7529,15
+2025-08-03,SEA-001,Brand Search,Paid Search,1088.37,44143,70
+2025-08-03,SEA-002,Competitor Conquest,Paid Search,1433.13,81779,102
+2025-08-03,SOC-010,Summer Splash,Paid Social,609.89,24215,46
+2025-08-03,SOC-011,Back-to-School,Paid Social,391.04,10196,18
+2025-08-03,DSP-100,Awareness Blast,Display,309.13,17271,30
+2025-08-03,AFF-200,Top Affiliates,Affiliate,109.13,3398,5
+2025-08-04,SEA-001,Brand Search,Paid Search,765.52,21628,51
+2025-08-04,SEA-002,Competitor Conquest,Paid Search,1535.59,35733,90
+2025-08-04,SOC-010,Summer Splash,Paid Social,1405.05,73410,89
+2025-08-04,SOC-011,Back-to-School,Paid Social,744.57,25878,52
+2025-08-04,DSP-100,Awareness Blast,Display,222.01,10775,14
+2025-08-04,AFF-200,Top Affiliates,Affiliate,236.42,7021,20
+2025-08-05,SEA-001,Brand Search,Paid Search,903.86,25722,56
+2025-08-05,SEA-002,Competitor Conquest,Paid Search,1835.79,73317,120
+2025-08-05,SOC-010,Summer Splash,Paid Social,944.53,35199,61
+2025-08-05,SOC-011,Back-to-School,Paid Social,1075.1,63926,68
+2025-08-05,DSP-100,Awareness Blast,Display,261.07,7789,15
+2025-08-05,AFF-200,Top Affiliates,Affiliate,78.08,3199,3
+2025-08-06,SEA-001,Brand Search,Paid Search,1115.6,65573,75
+2025-08-06,SEA-002,Competitor Conquest,Paid Search,886.85,37487,60
+2025-08-06,SOC-010,Summer Splash,Paid Social,635.97,20953,43
+2025-08-06,SOC-011,Back-to-School,Paid Social,437.8,18934,15
+2025-08-06,DSP-100,Awareness Blast,Display,519.55,17386,31
+2025-08-06,AFF-200,Top Affiliates,Affiliate,215.05,7843,18
+2025-08-07,SEA-001,Brand Search,Paid Search,1023.3,25553,69
+2025-08-07,SEA-002,Competitor Conquest,Paid Search,771.85,41427,51
+2025-08-07,SOC-010,Summer Splash,Paid Social,1254.32,33328,86
+2025-08-07,SOC-011,Back-to-School,Paid Social,730.6,38476,53
+2025-08-07,DSP-100,Awareness Blast,Display,477.61,23834,23
+2025-08-07,AFF-200,Top Affiliates,Affiliate,367.27,16515,24
+2025-08-08,SEA-001,Brand Search,Paid Search,675.35,17269,47
+2025-08-08,SEA-002,Competitor Conquest,Paid Search,1300.19,42215,92
+2025-08-08,SOC-010,Summer Splash,Paid Social,1192.74,60231,77
+2025-08-08,SOC-011,Back-to-School,Paid Social,432.76,15532,32
+2025-08-08,DSP-100,Awareness Blast,Display,337.55,16472,29
+2025-08-08,AFF-200,Top Affiliates,Affiliate,113.56,6397,12
+2025-08-09,SEA-001,Brand Search,Paid Search,1375.09,35936,92
+2025-08-09,SEA-002,Competitor Conquest,Paid Search,1417.18,60379,107
+2025-08-09,SOC-010,Summer Splash,Paid Social,1407.0,60573,87
+2025-08-09,SOC-011,Back-to-School,Paid Social,1421.24,34862,104
+2025-08-09,DSP-100,Awareness Blast,Display,274.8,15057,31
+2025-08-09,AFF-200,Top Affiliates,Affiliate,331.0,6681,24
+2025-08-10,SEA-001,Brand Search,Paid Search,1000.25,33862,73
+2025-08-10,SEA-002,Competitor Conquest,Paid Search,1178.33,31880,74
+2025-08-10,SOC-010,Summer Splash,Paid Social,802.71,34695,48
+2025-08-10,SOC-011,Back-to-School,Paid Social,478.4,28643,34
+2025-08-10,DSP-100,Awareness Blast,Display,240.25,6822,15
+2025-08-10,AFF-200,Top Affiliates,Affiliate,247.69,5604,17
+2025-08-11,SEA-001,Brand Search,Paid Search,1663.29,59929,104
+2025-08-11,SEA-002,Competitor Conquest,Paid Search,772.89,23828,52
+2025-08-11,SOC-010,Summer Splash,Paid Social,790.48,38448,52
+2025-08-11,SOC-011,Back-to-School,Paid Social,577.29,13949,38
+2025-08-11,DSP-100,Awareness Blast,Display,591.65,14186,43
+2025-08-11,AFF-200,Top Affiliates,Affiliate,283.83,8003,14
+2025-08-12,SEA-001,Brand Search,Paid Search,939.72,26608,54
+2025-08-12,SEA-002,Competitor Conquest,Paid Search,1839.01,64710,131
+2025-08-12,SOC-010,Summer Splash,Paid Social,621.68,26161,32
+2025-08-12,SOC-011,Back-to-School,Paid Social,1216.33,48041,78
+2025-08-12,DSP-100,Awareness Blast,Display,455.13,13993,41
+2025-08-12,AFF-200,Top Affiliates,Affiliate,394.54,16187,29
+2025-08-13,SEA-001,Brand Search,Paid Search,757.52,18718,42
+2025-08-13,SEA-002,Competitor Conquest,Paid Search,1331.27,27210,91
+2025-08-13,SOC-010,Summer Splash,Paid Social,1380.02,60749,86
+2025-08-13,SOC-011,Back-to-School,Paid Social,802.52,17558,56
+2025-08-13,DSP-100,Awareness Blast,Display,249.68,7443,9
+2025-08-13,AFF-200,Top Affiliates,Affiliate,248.24,9691,12
+2025-08-14,SEA-001,Brand Search,Paid Search,1495.51,31775,102
+2025-08-14,SEA-002,Competitor Conquest,Paid Search,577.14,29339,30
+2025-08-14,SOC-010,Summer Splash,Paid Social,390.17,18546,18
+2025-08-14,SOC-011,Back-to-School,Paid Social,1259.3,54917,81
+2025-08-14,DSP-100,Awareness Blast,Display,750.39,43529,43
+2025-08-14,AFF-200,Top Affiliates,Affiliate,332.3,15402,21
+2025-08-15,SEA-001,Brand Search,Paid Search,1538.41,44380,106
+2025-08-15,SEA-002,Competitor Conquest,Paid Search,550.92,32417,37
+2025-08-15,SOC-010,Summer Splash,Paid Social,869.06,28473,50
+2025-08-15,SOC-011,Back-to-School,Paid Social,392.34,19221,28
+2025-08-15,DSP-100,Awareness Blast,Display,523.69,17151,39
+2025-08-15,AFF-200,Top Affiliates,Affiliate,354.53,7392,25
+2025-08-16,SEA-001,Brand Search,Paid Search,1812.05,108573,126
+2025-08-16,SEA-002,Competitor Conquest,Paid Search,1102.9,65471,70
+2025-08-16,SOC-010,Summer Splash,Paid Social,801.32,23679,51
+2025-08-16,SOC-011,Back-to-School,Paid Social,655.57,13580,39
+2025-08-16,DSP-100,Awareness Blast,Display,430.6,12371,27
+2025-08-16,AFF-200,Top Affiliates,Affiliate,264.69,7062,13
+2025-08-17,SEA-001,Brand Search,Paid Search,1986.75,88031,124
+2025-08-17,SEA-002,Competitor Conquest,Paid Search,764.79,26006,51
+2025-08-17,SOC-010,Summer Splash,Paid Social,1462.92,87477,95
+2025-08-17,SOC-011,Back-to-School,Paid Social,1135.22,32896,69
+2025-08-17,DSP-100,Awareness Blast,Display,555.76,13149,35
+2025-08-17,AFF-200,Top Affiliates,Affiliate,351.74,18424,26
+2025-08-18,SEA-001,Brand Search,Paid Search,1482.86,51763,103
+2025-08-18,SEA-002,Competitor Conquest,Paid Search,1243.81,28663,78
+2025-08-18,SOC-010,Summer Splash,Paid Social,894.18,47379,66
+2025-08-18,SOC-011,Back-to-School,Paid Social,620.43,28749,35
+2025-08-18,DSP-100,Awareness Blast,Display,625.02,29937,46
+2025-08-18,AFF-200,Top Affiliates,Affiliate,355.15,7518,31
+2025-08-19,SEA-001,Brand Search,Paid Search,1738.73,45955,118
+2025-08-19,SEA-002,Competitor Conquest,Paid Search,1261.2,74722,86
+2025-08-19,SOC-010,Summer Splash,Paid Social,611.76,31318,42
+2025-08-19,SOC-011,Back-to-School,Paid Social,1455.59,83377,95
+2025-08-19,DSP-100,Awareness Blast,Display,612.73,19631,39
+2025-08-19,AFF-200,Top Affiliates,Affiliate,66.01,3621,5
+2025-08-20,SEA-001,Brand Search,Paid Search,1960.23,98659,130
+2025-08-20,SEA-002,Competitor Conquest,Paid Search,1655.61,99146,100
+2025-08-20,SOC-010,Summer Splash,Paid Social,841.66,40187,61
+2025-08-20,SOC-011,Back-to-School,Paid Social,1441.04,83212,102
+2025-08-20,DSP-100,Awareness Blast,Display,438.56,26032,33
+2025-08-20,AFF-200,Top Affiliates,Affiliate,278.08,9660,17
+2025-08-21,SEA-001,Brand Search,Paid Search,1796.54,98351,123
+2025-08-21,SEA-002,Competitor Conquest,Paid Search,1767.17,37642,121
+2025-08-21,SOC-010,Summer Splash,Paid Social,1039.98,25679,71
+2025-08-21,SOC-011,Back-to-School,Paid Social,540.63,23397,32
+2025-08-21,DSP-100,Awareness Blast,Display,386.22,7903,24
+2025-08-21,AFF-200,Top Affiliates,Affiliate,293.24,15953,16
+2025-08-22,SEA-001,Brand Search,Paid Search,1669.78,49561,123
+2025-08-22,SEA-002,Competitor Conquest,Paid Search,1553.7,63248,103
+2025-08-22,SOC-010,Summer Splash,Paid Social,720.75,25858,49
+2025-08-22,SOC-011,Back-to-School,Paid Social,1260.7,30487,78
+2025-08-22,DSP-100,Awareness Blast,Display,218.95,4834,23
+2025-08-22,AFF-200,Top Affiliates,Affiliate,168.81,8878,13
+2025-08-23,SEA-001,Brand Search,Paid Search,620.17,23624,43
+2025-08-23,SEA-002,Competitor Conquest,Paid Search,1597.38,42141,117
+2025-08-23,SOC-010,Summer Splash,Paid Social,563.06,15362,40
+2025-08-23,SOC-011,Back-to-School,Paid Social,966.44,57844,70
+2025-08-23,DSP-100,Awareness Blast,Display,319.73,7317,26
+2025-08-23,AFF-200,Top Affiliates,Affiliate,171.08,5960,10
+2025-08-24,SEA-001,Brand Search,Paid Search,1981.47,74393,131
+2025-08-24,SEA-002,Competitor Conquest,Paid Search,1810.13,79092,129
+2025-08-24,SOC-010,Summer Splash,Paid Social,552.79,27266,38
+2025-08-24,SOC-011,Back-to-School,Paid Social,515.62,14045,30
+2025-08-24,DSP-100,Awareness Blast,Display,348.34,13171,12
+2025-08-24,AFF-200,Top Affiliates,Affiliate,389.29,11805,27
+2025-08-25,SEA-001,Brand Search,Paid Search,2065.7,78809,138
+2025-08-25,SEA-002,Competitor Conquest,Paid Search,1292.22,62376,79
+2025-08-25,SOC-010,Summer Splash,Paid Social,651.06,25381,45
+2025-08-25,SOC-011,Back-to-School,Paid Social,1584.71,35312,107
+2025-08-25,DSP-100,Awareness Blast,Display,276.3,15847,18
+2025-08-25,AFF-200,Top Affiliates,Affiliate,427.15,24805,18
+2025-08-26,SEA-001,Brand Search,Paid Search,1818.47,84876,126
+2025-08-26,SEA-002,Competitor Conquest,Paid Search,1045.04,39450,64
+2025-08-26,SOC-010,Summer Splash,Paid Social,709.09,33561,59
+2025-08-26,SOC-011,Back-to-School,Paid Social,1286.9,60562,85
+2025-08-26,DSP-100,Awareness Blast,Display,493.9,22874,32
+2025-08-26,AFF-200,Top Affiliates,Affiliate,420.6,15211,29
+2025-08-27,SEA-001,Brand Search,Paid Search,1326.69,49649,87
+2025-08-27,SEA-002,Competitor Conquest,Paid Search,1604.9,76744,107
+2025-08-27,SOC-010,Summer Splash,Paid Social,979.44,22456,73
+2025-08-27,SOC-011,Back-to-School,Paid Social,1075.14,42110,76
+2025-08-27,DSP-100,Awareness Blast,Display,545.44,22550,43
+2025-08-27,AFF-200,Top Affiliates,Affiliate,65.33,1326,7
+2025-08-28,SEA-001,Brand Search,Paid Search,1644.93,94382,105
+2025-08-28,SEA-002,Competitor Conquest,Paid Search,1647.72,68489,108
+2025-08-28,SOC-010,Summer Splash,Paid Social,1263.73,31435,86
+2025-08-28,SOC-011,Back-to-School,Paid Social,1181.53,35756,73
+2025-08-28,DSP-100,Awareness Blast,Display,760.86,34486,51
+2025-08-28,AFF-200,Top Affiliates,Affiliate,159.41,5808,13
+2025-08-29,SEA-001,Brand Search,Paid Search,2347.84,72764,155
+2025-08-29,SEA-002,Competitor Conquest,Paid Search,1915.66,51187,133
+2025-08-29,SOC-010,Summer Splash,Paid Social,1478.36,67529,103
+2025-08-29,SOC-011,Back-to-School,Paid Social,1073.9,27339,82
+2025-08-29,DSP-100,Awareness Blast,Display,597.53,35642,42
+2025-08-29,AFF-200,Top Affiliates,Affiliate,420.16,13837,36
+2025-08-30,SEA-001,Brand Search,Paid Search,941.02,48946,63
+2025-08-30,SEA-002,Competitor Conquest,Paid Search,2183.96,102164,137
+2025-08-30,SOC-010,Summer Splash,Paid Social,8138.02,182338,545
+2025-08-30,SOC-011,Back-to-School,Paid Social,1273.52,48412,85
+2025-08-30,DSP-100,Awareness Blast,Display,825.44,24256,49
+2025-08-30,AFF-200,Top Affiliates,Affiliate,433.06,19463,27
+2025-08-31,SEA-001,Brand Search,Paid Search,845.72,40890,52
+2025-08-31,SEA-002,Competitor Conquest,Paid Search,769.81,29166,44
+2025-08-31,SOC-010,Summer Splash,Paid Social,1284.18,69418,86
+2025-08-31,SOC-011,Back-to-School,Paid Social,1809.73,58250,120
+2025-08-31,DSP-100,Awareness Blast,Display,366.1,21608,29
+2025-08-31,AFF-200,Top Affiliates,Affiliate,282.62,14298,21
+2025-09-01,SEA-001,Brand Search,Paid Search,762.26,26451,53
+2025-09-01,SEA-002,Competitor Conquest,Paid Search,1148.75,27830,76
+2025-09-01,SOC-010,Summer Splash,Paid Social,559.25,14585,33
+2025-09-01,SOC-011,Back-to-School,Paid Social,369.34,10920,24
+2025-09-01,DSP-100,Awareness Blast,Display,381.97,18214,25
+2025-09-01,AFF-200,Top Affiliates,Affiliate,157.19,7066,6
+2025-09-02,SEA-001,Brand Search,Paid Search,1290.56,49030,83
+2025-09-02,SEA-002,Competitor Conquest,Paid Search,1121.19,22918,68
+2025-09-02,SOC-010,Summer Splash,Paid Social,877.61,44241,59
+2025-09-02,SOC-011,Back-to-School,Paid Social,314.54,16375,15
+2025-09-02,DSP-100,Awareness Blast,Display,265.84,10148,11
+2025-09-02,AFF-200,Top Affiliates,Affiliate,181.56,6496,11
+2025-09-03,SEA-001,Brand Search,Paid Search,1189.17,61213,84
+2025-09-03,SEA-002,Competitor Conquest,Paid Search,1156.4,64840,71
+2025-09-03,SOC-010,Summer Splash,Paid Social,1064.64,48405,67
+2025-09-03,SOC-011,Back-to-School,Paid Social,480.2,22669,32
+2025-09-03,DSP-100,Awareness Blast,Display,629.79,14390,37
+2025-09-03,AFF-200,Top Affiliates,Affiliate,281.48,7714,25
+2025-09-04,SEA-001,Brand Search,Paid Search,761.16,23293,53
+2025-09-04,SEA-002,Competitor Conquest,Paid Search,1072.91,54702,78
+2025-09-04,SOC-010,Summer Splash,Paid Social,936.36,48642,69
+2025-09-04,SOC-011,Back-to-School,Paid Social,1274.12,42722,93
+2025-09-04,DSP-100,Awareness Blast,Display,423.3,15906,31
+2025-09-04,AFF-200,Top Affiliates,Affiliate,0.0,16519,24
+2025-09-05,SEA-001,Brand Search,Paid Search,928.86,52719,66
+2025-09-05,SEA-002,Competitor Conquest,Paid Search,1190.81,55070,75
+2025-09-05,SOC-010,Summer Splash,Paid Social,954.03,20728,63
+2025-09-05,SOC-011,Back-to-School,Paid Social,1281.34,68715,84
+2025-09-05,DSP-100,Awareness Blast,Display,554.21,17680,46
+2025-09-05,AFF-200,Top Affiliates,Affiliate,106.03,4077,10
+2025-09-06,SEA-001,Brand Search,Paid Search,514.0,12319,40
+2025-09-06,SEA-002,Competitor Conquest,Paid Search,806.05,22183,51
+2025-09-06,SOC-010,Summer Splash,Paid Social,1240.55,62572,75
+2025-09-06,SOC-011,Back-to-School,Paid Social,666.73,23156,38
+2025-09-06,DSP-100,Awareness Blast,Display,731.72,26093,57
+2025-09-06,AFF-200,Top Affiliates,Affiliate,327.97,7779,18
+2025-09-07,SEA-001,Brand Search,Paid Search,1382.3,59714,101
+2025-09-07,SEA-002,Competitor Conquest,Paid Search,1405.23,74480,103
+2025-09-07,SOC-010,Summer Splash,Paid Social,392.47,20171,30
+2025-09-07,SOC-011,Back-to-School,Paid Social,828.24,30943,58
+2025-09-07,DSP-100,Awareness Blast,Display,558.94,33499,38
+2025-09-07,AFF-200,Top Affiliates,Affiliate,91.42,3327,8
+2025-09-08,SEA-001,Brand Search,Paid Search,1759.7,48179,110
+2025-09-08,SEA-002,Competitor Conquest,Paid Search,539.3,21961,30
+2025-09-08,SOC-010,Summer Splash,Paid Social,1428.82,78455,93
+2025-09-08,SOC-011,Back-to-School,Paid Social,849.82,19736,58
+2025-09-08,DSP-100,Awareness Blast,Display,462.11,23392,32
+2025-09-08,AFF-200,Top Affiliates,Affiliate,384.82,8757,20
+2025-09-09,SEA-001,Brand Search,Paid Search,585.58,32939,34
+2025-09-09,SEA-002,Competitor Conquest,Paid Search,2.95,62,0
+2025-09-09,SOC-010,Summer Splash,Paid Social,1387.72,50574,96
+2025-09-09,SOC-011,Back-to-School,Paid Social,1096.55,63021,71
+2025-09-09,DSP-100,Awareness Blast,Display,356.09,21099,27
+2025-09-09,AFF-200,Top Affiliates,Affiliate,390.2,17301,19
+2025-09-10,SEA-001,Brand Search,Paid Search,1024.26,30767,69
+2025-09-10,SEA-002,Competitor Conquest,Paid Search,1285.09,29180,91
+2025-09-10,SOC-010,Summer Splash,Paid Social,952.25,37506,65
+2025-09-10,SOC-011,Back-to-School,Paid Social,794.12,17860,57
+2025-09-10,DSP-100,Awareness Blast,Display,475.54,24467,28
+2025-09-10,AFF-200,Top Affiliates,Affiliate,231.79,6535,11
+2025-09-11,SEA-001,Brand Search,Paid Search,1816.75,69126,125
+2025-09-11,SEA-002,Competitor Conquest,Paid Search,1308.05,69175,86
+2025-09-11,SOC-010,Summer Splash,Paid Social,1230.73,50377,86
+2025-09-11,SOC-011,Back-to-School,Paid Social,1061.5,60084,67
+2025-09-11,DSP-100,Awareness Blast,Display,617.54,20175,39
+2025-09-11,AFF-200,Top Affiliates,Affiliate,103.24,3883,4
+2025-09-12,SEA-001,Brand Search,Paid Search,1422.95,57214,94
+2025-09-12,SEA-002,Competitor Conquest,Paid Search,1976.17,109236,134
+2025-09-12,SOC-010,Summer Splash,Paid Social,494.68,20329,35
+2025-09-12,SOC-011,Back-to-School,Paid Social,1177.8,62143,80
+2025-09-12,DSP-100,Awareness Blast,Display,388.61,20544,15
+2025-09-12,AFF-200,Top Affiliates,Affiliate,110.82,5372,4
+2025-09-13,SEA-001,Brand Search,Paid Search,1738.97,58981,124
+2025-09-13,SEA-002,Competitor Conquest,Paid Search,1476.72,57372,96
+2025-09-13,SOC-010,Summer Splash,Paid Social,1060.97,35016,68
+2025-09-13,SOC-011,Back-to-School,Paid Social,1326.88,41360,89
+2025-09-13,DSP-100,Awareness Blast,Display,507.59,14469,36
+2025-09-13,AFF-200,Top Affiliates,Affiliate,282.74,8598,19
+2025-09-14,SEA-001,Brand Search,Paid Search,1860.79,70490,129
+2025-09-14,SEA-002,Competitor Conquest,Paid Search,1319.97,48709,87
+2025-09-14,SOC-010,Summer Splash,Paid Social,1187.88,64542,81
+2025-09-14,SOC-011,Back-to-School,Paid Social,1265.89,62113,83
+2025-09-14,DSP-100,Awareness Blast,Display,368.91,9039,26
+2025-09-14,AFF-200,Top Affiliates,Affiliate,214.07,6861,23
+2025-09-15,SEA-001,Brand Search,Paid Search,1397.54,30641,97
+2025-09-15,SEA-002,Competitor Conquest,Paid Search,1838.45,95200,131
+2025-09-15,SOC-010,Summer Splash,Paid Social,999.37,40832,61
+2025-09-15,SOC-011,Back-to-School,Paid Social,1391.55,76756,93
+2025-09-15,DSP-100,Awareness Blast,Display,458.26,17131,33
+2025-09-15,AFF-200,Top Affiliates,Affiliate,270.96,11832,24
+2025-09-16,SEA-001,Brand Search,Paid Search,1553.95,54979,114
+2025-09-16,SEA-002,Competitor Conquest,Paid Search,1925.8,87362,127
+2025-09-16,SOC-010,Summer Splash,Paid Social,605.27,13210,38
+2025-09-16,SOC-011,Back-to-School,Paid Social,697.62,30995,43
+2025-09-16,DSP-100,Awareness Blast,Display,509.94,10355,32
+2025-09-16,AFF-200,Top Affiliates,Affiliate,152.72,8746,6
+2025-09-17,SEA-001,Brand Search,Paid Search,1095.52,37038,78
+2025-09-17,SEA-002,Competitor Conquest,Paid Search,1240.32,38436,82
+2025-09-17,SOC-010,Summer Splash,Paid Social,806.19,39149,45
+2025-09-17,SOC-011,Back-to-School,Paid Social,1446.07,65732,100
+2025-09-17,DSP-100,Awareness Blast,Display,235.71,11187,14
+2025-09-17,AFF-200,Top Affiliates,Affiliate,196.63,9840,8
+2025-09-18,SEA-001,Brand Search,Paid Search,606.51,28350,34
+2025-09-18,SEA-002,Competitor Conquest,Paid Search,1390.49,61880,99
+2025-09-18,SOC-010,Summer Splash,Paid Social,1168.77,26481,72
+2025-09-18,SOC-011,Back-to-School,Paid Social,806.44,34747,54
+2025-09-18,DSP-100,Awareness Blast,Display,535.19,26313,40
+2025-09-18,AFF-200,Top Affiliates,Affiliate,146.38,4721,11
