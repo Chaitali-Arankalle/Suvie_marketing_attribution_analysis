@@ -6,34 +6,32 @@ The objective is to show how attribution models change campaign/channel credit a
 
 ## 📂 Project Structure
 
-Suvie_marketing_attribution_analysis/
-│
-├── data/ # Data sources
-│ ├── raw/ # Original CSVs provided
-│ │ ├── ad_events.csv
-│ │ └── ad_spend_daily.csv
-│ └── processed/ # Cleaned & modeled outputs
-│ ├── attr_rollup_by_campaign.csv
-│ ├── attr_rollup_by_channel.csv
-│ └── revenue_by_model_campaign_daily.csv
-│
-├── scripts/ # BigQuery SQL scripts
-│ ├── ad_events_clicks_clean.sql
-│ ├── ad_events_purchases_clean.sql
-│ ├── ad_spend_daily_clean.sql
-│ ├── revenue_by_model_campaign_daily.sql
-│ ├── attr_rollup_by_campaign.sql
-│ ├── attr_rollup_by_channel.sql
-│ └── data_quality_check_post_preprocessing.sql
-│
-├── documents/ # Case study documentation
-│ ├── Marketing Attribution Analysis Case Study.pdf
-│ └── Suvie Marketing Analyst Test Task.pdf
-│
-├── reports/ # Final outputs
-│ └── Looker Dashboard Link.pdf
-│
-└── README.md # Project navigation & summary
+- **data/**
+  - **raw/** → Original CSVs provided  
+    - `ad_events.csv`  
+    - `ad_spend_daily.csv`  
+  - **processed/** → Cleaned & modeled outputs  
+    - `attr_rollup_by_campaign.csv`  
+    - `attr_rollup_by_channel.csv`  
+    - `revenue_by_model_campaign_daily.csv`  
+
+- **scripts/** → BigQuery SQL scripts  
+  - `ad_events_clicks_clean.sql`  
+  - `ad_events_purchases_clean.sql`  
+  - `ad_spend_daily_clean.sql`  
+  - `revenue_by_model_campaign_daily.sql`  
+  - `attr_rollup_by_campaign.sql`  
+  - `attr_rollup_by_channel.sql`  
+  - `data_quality_check_post_preprocessing.sql`  
+
+- **documents/** → Case study docs  
+  - `Marketing Attribution Analysis Case Study.pdf`  
+  - `Suvie Marketing Analyst Test Task.pdf`  
+
+- **reports/** → Final outputs  
+  - `Looker Dashboard Link.pdf`  
+
+- **README.md** → Project navigation & summary
 
 
 ## 🚀 Workflow
